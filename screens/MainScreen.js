@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import {
   KeyboardAvoidingView,
   Keyboard,
@@ -40,14 +40,14 @@ const MainScreen = () => {
     setIsTranslated(false);
   };
 
-  const handleInputChange = (text) => {
+  const handleInputChange = useCallback((text) => {
     setInputText(text);
     setTextInputWidth("100%");
     setTextInputFlex("1");
     setTranslationVisible(false);
     setInputTagVisible(false);
     setIsTranslated(false);
-  };
+  }, []);
 
   const handleTranslate = () => {
     // Placeholder for translation function
