@@ -10,6 +10,9 @@ const TranslatedOutput = ({
   textInputFlex,
   translationTagVisible,
 }) => {
+  const KenyangImage = require("../assets/Kɛnyaŋ.png");
+  const CopyImage = require("../assets/copy.png");
+
   return (
     translationVisible && (
       <View
@@ -26,13 +29,10 @@ const TranslatedOutput = ({
           <Text style={styles.translatedText}>{translatedText}</Text>
         </View>
         <TouchableOpacity style={styles.copyButton} onPress={handleCopy}>
-          <Image
-            style={styles.copyIcon}
-            source={require("../assets/copy.png")}
-          />
+          <Image style={styles.copyIcon} source={CopyImage} />
         </TouchableOpacity>
         <Image
-          source={require("../assets/Kɛnyaŋ.png")}
+          source={KenyangImage}
           style={[
             styles.tagImage,
             { display: translationTagVisible ? "flex" : "none" },

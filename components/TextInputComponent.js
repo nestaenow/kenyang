@@ -20,6 +20,10 @@ const TextInputComponent = ({
   handleTranslate,
   isTranslated,
 }) => {
+  const EnglishImage = require("../assets/English.png");
+  const ClearImage = require("../assets/clear.png");
+  const TranslateImage = require("../assets/translate.png");
+
   return (
     <View
       style={[
@@ -28,7 +32,7 @@ const TextInputComponent = ({
       ]}
     >
       <Image
-        source={require("../assets/English.png")}
+        source={EnglishImage}
         style={[
           styles.tagImage,
           { display: inputTagVisible ? "flex" : "none" },
@@ -46,10 +50,7 @@ const TextInputComponent = ({
       />
       {keyboardStatus && inputText !== "" && (
         <TouchableOpacity style={styles.clearButton} onPress={clearInput}>
-          <Image
-            style={styles.clearIcon}
-            source={require("../assets/clear.png")}
-          />
+          <Image style={styles.clearIcon} source={ClearImage} />
         </TouchableOpacity>
       )}
       {!isTranslated && (
@@ -61,10 +62,7 @@ const TextInputComponent = ({
           }
           onPress={handleTranslate}
         >
-          <Image
-            style={styles.translateIcon}
-            source={require("../assets/translate.png")}
-          />
+          <Image style={styles.translateIcon} source={TranslateImage} />
         </TouchableOpacity>
       )}
     </View>

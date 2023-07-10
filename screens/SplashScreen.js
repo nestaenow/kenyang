@@ -2,10 +2,13 @@ import React from "react";
 import { View, Image, StyleSheet } from "react-native";
 
 const SplashScreen = () => {
+  const TokLogo = require("../assets/logo.png");
+  const Waves = require("../assets/waves.png");
+
   return (
     <View style={styles.container}>
-      <Image source={require("../assets/logo.png")} style={styles.logo} />
-      <Image source={require("../assets/waves.png")} style={styles.waves} />
+      <Image source={TokLogo} style={styles.logo} />
+      <Image source={Waves} style={styles.waves} />
     </View>
   );
 };
