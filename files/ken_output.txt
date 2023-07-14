@@ -5,8 +5,7 @@ Mátio
 13 Júda achí nyaka chi Pɛ́res nɛ mɔ́mayi Sɛrá. Máyap aka nnyɛ́n bɛ Táma. Pɛ́res abhak chi Hɛ́srɔn, Hɛ́srɔn abhak chi Rám.
 14 Rám achí nyaka chi Amínadap, Amínadap abhak chi Náshɔn, Náshɔn abhak chi Sálmɔn.
 15 Sálmɔn achí nyaka chi Bóas. Nnɔ Bóas aka nnyɛ́n bɛ Ráhab. Bóas abhak chi Óbɛd. Nnɔ Óbɛd aka nnyɛ́n bɛ Rút. Óbɛd abhak chi Jése,
-16 Jése abhak chi Mfɔ Debhít. 
-Debhít achí nyaka chi Sólomon. Nnɔ Sólomon ayambɨ abháy Uria, kɛ ǎbhay Debhít.
+16 Jése abhak chi Mfɔ Debhít. Debhít achí nyaka chi Sólomon. Nnɔ Sólomon ayambɨ abháy Uria, kɛ ǎbhay Debhít.
 17 Sólomon achí nyaka chi Rehóboam, Rehóboam abhak chi Abíja, Abíja abhak chi Ása.
 18 Ása achí nyaka chi Jɛhósafat, Jɛhósafat abhak chi Jóram, Jóram abhak chi Úsia.
 19 Úsia achí nyaka chi Jótam, Jótam abhak chi Áhas, Áhas abhak chi Hesékia.
@@ -97,22 +96,14 @@ Debhít achí nyaka chi Sólomon. Nnɔ Sólomon ayambɨ abháy Uria, kɛ a�
 5
 51 Ɛwak ɛ́mɔt, bo báré twɔ ntá Yesu ndǔ bakwɔ́. Aghɔ́ nɔ́kɔ́ bhɔ́, arɔk achɔkɔ ambɨ njiɛ. Bakoŋo bhi bákó bátɛ́mɛ́ri yi, bachɔkɔ nɛ yi.
 52 Abho bɛtɔŋ bhɔ mɛnyɨ. 
-53 Are tɔ́ŋ andɛm nɔkɔ bɛ, “Ɛ́rɨ ɛcha ntá yɛ̌ntɨkɨ mmu anɛ ághɔ́ bɛ bɛsí Mandɛm, yi apu yɛ̌nyɨŋ, 
-mbɔnyunɛ Mandɛm achi Mfɔ ywi!
-54 Ɛ́rɨ ɛcha ntá bǒ abhɛn báchí ndǔ nɛdǐ kɛbhɔ nɛ́nɛ; 
-mbɔnyunɛ chɔŋ mánchyɛ bhɔ́ nɛpɔptí ntɨ!
-55 Ɛ́rɨ ɛcha ntá bǒ abhɛn bábhɔ́ŋɔ́ nɛsɛptǐmʉɛt nɛ bápú tɔŋ bɛtaŋ, 
-mbɔnyunɛ chɔŋ yí anchyɛ bhɔ áfɔ́k ankɛm anɛ yi afyɛ́ bariɛp bɛchyɛ bhɔ́!
-56 Ɛ́rɨ ɛcha ntá bǒ abhɛn bábhɔ́ŋɔ́ nsay nɛ ɛkwak bɛkʉ mɛnyɨŋ ɛbhɛn bɛchi chak bɛsí Mandɛm, 
-mbɔnyunɛ chɔŋ yi anchyɛ bhɔ mɛnyɨŋ ɛbhɛn bábhɔ́ŋɔ́ ɛkwak bɛbhɔŋ!
-57 Ɛ́rɨ ɛcha ntá yɛ̌ntɨkɨ mmu anɛ ághɔ̀ bho ntínso, 
-mbɔnyunɛ chɔŋ Mandɛm angɔ́ yi ntínso!
-58 Ɛ́rɨ ɛcha ntá bǒ abhɛn batɨ yap áchí amɛm pɛ́pɛ́p, 
-mbɔnyunɛ chɔŋ Mandɛm ankʉ bɔ́ mángɔ́ yi!
-59 Ɛ́rɨ ɛcha ntá bǒ abhɛn mánù bɛ bo mámbák ɛyɔŋ ɛ́mɔt nɛ batɨ; 
-mbɔnyunɛ chɔŋ Mandɛm ankʉ bɔ mámbak bɔ̌bhi!
-510 Ɛ́rɨ ɛcha ntá yɛ̌ntɨkɨ mmu anɛ bo báchyɛ̀ ɛsɔŋɔri ndǔ ákʉ̀ mɛnyɨŋ ɛbhɛn bɛchi chak bɛsí Mandɛm. 
-Ǎyɛt yi mbɔnyunɛ achí Mfɔ ywi!
+53 Are tɔ́ŋ andɛm nɔkɔ bɛ, “Ɛ́rɨ ɛcha ntá yɛ̌ntɨkɨ mmu anɛ ághɔ́ bɛ bɛsí Mandɛm, yi apu yɛ̌nyɨŋ, mbɔnyunɛ Mandɛm achi Mfɔ ywi!
+54 Ɛ́rɨ ɛcha ntá bǒ abhɛn báchí ndǔ nɛdǐ kɛbhɔ nɛ́nɛ; mbɔnyunɛ chɔŋ mánchyɛ bhɔ́ nɛpɔptí ntɨ!
+55 Ɛ́rɨ ɛcha ntá bǒ abhɛn bábhɔ́ŋɔ́ nɛsɛptǐmʉɛt nɛ bápú tɔŋ bɛtaŋ, mbɔnyunɛ chɔŋ yí anchyɛ bhɔ áfɔ́k ankɛm anɛ yi afyɛ́ bariɛp bɛchyɛ bhɔ́!
+56 Ɛ́rɨ ɛcha ntá bǒ abhɛn bábhɔ́ŋɔ́ nsay nɛ ɛkwak bɛkʉ mɛnyɨŋ ɛbhɛn bɛchi chak bɛsí Mandɛm, mbɔnyunɛ chɔŋ yi anchyɛ bhɔ mɛnyɨŋ ɛbhɛn bábhɔ́ŋɔ́ ɛkwak bɛbhɔŋ!
+57 Ɛ́rɨ ɛcha ntá yɛ̌ntɨkɨ mmu anɛ ághɔ̀ bho ntínso, mbɔnyunɛ chɔŋ Mandɛm angɔ́ yi ntínso!
+58 Ɛ́rɨ ɛcha ntá bǒ abhɛn batɨ yap áchí amɛm pɛ́pɛ́p, mbɔnyunɛ chɔŋ Mandɛm ankʉ bɔ́ mángɔ́ yi!
+59 Ɛ́rɨ ɛcha ntá bǒ abhɛn mánù bɛ bo mámbák ɛyɔŋ ɛ́mɔt nɛ batɨ; mbɔnyunɛ chɔŋ Mandɛm ankʉ bɔ mámbak bɔ̌bhi!
+510 Ɛ́rɨ ɛcha ntá yɛ̌ntɨkɨ mmu anɛ bo báchyɛ̀ ɛsɔŋɔri ndǔ ákʉ̀ mɛnyɨŋ ɛbhɛn bɛchi chak bɛsí Mandɛm. Ǎyɛt yi mbɔnyunɛ achí Mfɔ ywi!
 511 “Ɛ́rɨ ɛcha ntá yɛka mpok bo básɔ̀kɔti bhe nɛ mpok anɛ báchyɛ̀ bhe ɛsɔŋɔri, mámbarɛ nɔkɔ bhe barak amʉɛt ndɛ́ndɛm ɛ̌ti ya.
 512 Ŋák ká nɛ mǎmbɔ́ŋ maŋák mbɔnyunɛ Mandɛm abhʉ́rɛ́ bhe ɛrɛm akap awu amfay. Nɛ bǎkɛ́ ghɔkɔntɨk bɛ báchyɛ̀ nyaka barɛmɛ́ kɛpɨ̌ntɨ abhɛn tɛsáy ɛsɔŋɔri nkwɔ.” 
 513 “Bǎchí mbɔ ngáŋ ntá bǒ mmɨk mankɛm. Kɛ mbák ngáŋ ábhɨ́kɨ́ pɛrɛ bhɔ́ŋ manyɨŋti mi, ná bákway bɛkʉ wu ampɛt ambak ɛrɨ́tí ngáŋ? Bápú pɛrɛ kway bɛkʉ yɛ̌nyɨŋ nɛ wu. Árɔp chi ɛnyɨŋ bɛto nɛfí ɛbhak ɛnɛ bo báfʉɛ̀t mánjati nɔkɔ wu.
@@ -283,7 +274,6 @@ Ǎyɛt yi mbɔnyunɛ achí Mfɔ ywi!
 929 Yesu atɔk yɛ amɨ́k ayap arɛm bɛ, “Ɛ́mbák nɛ bhe mbɔ ɛnyǔ mǎnókó.”
 930 Amɨ́k ánɛ́nɛ bhɔ tɛ́mté, bapɛt babho bɛghɔ mbaŋ. Yesu asɛmti bhɔ bɛ, “Bǎkɛ́ ghati yɛ̌ mmu ɛnyɨŋ ɛnɛ ɛfakari.”
 931 Yɛ̌ nɔ́, bárɔ́ŋ nɔ́kɔ́, mángati nɔkɔ bho ndǔ atú ɛtɔk wu ankɛm ɛnyɨŋ ɛnɛ Yesu ákʉ́ ntá yap. 
-Yesu akʉ mbók abho bɛrɛm kɛpɨ
 932 Bǒ-bhɔ bati apay bárɔ́ nɔ́kɔ́ Yesu, bǒfu basɔt mbók bárɔ́k ntá Yesu nɛ yi. Ɛfóŋó ɛbʉ́bʉ kɛ ɛ́kʉ́ nyaka yi ákwɛ́nɛ́ kɛbhok.
 933 Yesu abók ɛfóŋó ɛbʉ́bʉ yɔ. Ɛ́rɔ́ mmu wu, abho bɛrɛm kɛpɨ tɛ́mté. Bɛyǎ bo abhɛn bachi arɛ́, babhak maknkay, bábhó bɛrɛm bɛ, “Sɛ́bhɨ́kɨ́ re ghɔ́ ɛnɛ ɛnyu fá amɛm ɛtɔk Israɛl.”
 934 Kɛ bǒnkwɔ Fárisi báré rɛm chi bɛ, “Chí mfɔ bɛfóŋó bɛbʉ́bɛbʉ kɛ̌ áchyɛ́ Yesu bɛtaŋ bɛ́bok bɛfóŋó bɛbʉ́bɛbʉ.”   
