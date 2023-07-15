@@ -1,5 +1,4 @@
-1
-Mátio 
+1 
 11 Nɛ́ chi manyɛ́n bachǐmbɨ Yesu Kristo, ɛbhárɛ́mɔ Mfɔ Debhít nɛ Ábraham.
 12 Ábraham achí nyaka chi Áisek, Áisek abhak chi Jekɔ́p, Jekɔ́p abhak chi Júda nɛ bɔ̌mayi.
 13 Júda achí nyaka chi Pɛ́res nɛ mɔ́mayi Sɛrá. Máyap aka nnyɛ́n bɛ Táma. Pɛ́res abhak chi Hɛ́srɔn, Hɛ́srɔn abhak chi Rám.
@@ -4337,8 +4336,7 @@ Kʉ́ ka mbǐ ywi ambak chak.
 1329 Nɛ mánáŋá nɔ́kɔ́ bɛ́kʉ yɛ̌ntɨkɨ ɛnyɨŋ mbɔ ɛnyu Ɛkáti Mandɛm ɛ́rɛ́mɛ́ ɛ̌ti yi, báfɛ́rɛ yi amfǎy ɛkotákátí barɔk babhʉrɛ amɛm nnɛm ɛnɛ́n bághókó ndu sɛtárɛ́bhɛ́.
 1330 Yɛ̌ nɔ, Mandɛm akʉ yi apɛtnsɛm ndu nɛpɛ́m.
 1331 Nɛ ndu bɛyǎ manywɔp are bhesi bɛsí bo abhɛn bákɔ̀ nyaka nɛ yi bɛbho Gálili kpatɛ Yerúsalɛm. Bɔ́bhɔ kɛ báchí batísiɛ́ bhi ntá bo Israɛl.
-1332 Banábas nɛ mɛ sɛ́twɔ fá bɛ́gháti beka Mbok Ndɨ́ndɨ́ bɛ bariɛp amɛn Mandɛm afyɛ́ nyaka nɛ bachǐmbɨ bhɛsɛ́,
-1333 akʉ mɔ́ afǔ tɛtɛp ntá yɛsɛ́ bɛbhárɛ́ bhɔ́ bhap, ndu ákʉ́ Yesu apɛrɛnsɛm ndǔ nɛpɛ́m. Mandɛm akʉ bariɛp ɛmɔ afǔ tɛtɛp mbɔ ɛnyu ɛchi amɛm Ɛkáti Bakway, bɛbhɔ́k bɛpay bɛ Mandɛm arɛm bɛ: ‘Wɔ ɔchí Mɔ́wa, nɛ ɛchɔŋ nchí rɛm kpoŋoroŋ bɛ Nchí Ɛtayɛ.’
+1332-33 Banábas nɛ mɛ sɛ́twɔ fá bɛ́gháti beka Mbok Ndɨ́ndɨ́ bɛ bariɛp amɛn Mandɛm afyɛ́ nyaka nɛ bachǐmbɨ bhɛsɛ́, akʉ mɔ́ afǔ tɛtɛp ntá yɛsɛ́ bɛbhárɛ́ bhɔ́ bhap, ndu ákʉ́ Yesu apɛrɛnsɛm ndǔ nɛpɛ́m. Mandɛm akʉ bariɛp ɛmɔ afǔ tɛtɛp mbɔ ɛnyu ɛchi amɛm Ɛkáti Bakway, bɛbhɔ́k bɛpay bɛ Mandɛm arɛm bɛ: ‘Wɔ ɔchí Mɔ́wa, nɛ ɛchɔŋ nchí rɛm kpoŋoroŋ bɛ Nchí Ɛtayɛ.’
 1334 Nɛ bɛ́yɨŋɨ nɛkʉ anɛ Mandɛm akʉ Yesu ámpɛtnsɛm ndǔ nɛpɛ́m ɛnyu ɛnɛ yi ápú pɛrɛ gú, Mandɛm arɛm nyaka bɛ́: ‘Chɔŋ nchyɛ́ bhe áfɔ́k mbɔ ɛnyu mfyɛ́ nyaka bariɛp nɛ Debhít nɛ njɛt yi nɛ ɛ́bhɔŋ bɛbhak ɛnyu ɛyɔ.’
 1335 Nɛ ndu bɛ́rɔŋ ambɨ, ɛ́chí nɛbhʉɛt achák amɛm Ɛkáti Bakway bɛ Debhít arɛm ntá Mandɛm bɛ, ‘Ɔpú rɔ chɔŋ Mmu anɛ áchyɛ́ nɛpɛ́m ɛni ntá yɛ ámpɔ́ amɛm nnɛm.’
 1336 Mandɛm abhɨ́kɨ́ rɛm nyaka mɛnyɨŋ ɛbhɛn chi ɛ̌ti Mfɔ Debhít mbɔnyunɛ Debhít ánáŋá nɔ́kɔ́ bɛtɨk Mandɛm áchyɛ́ yi ánkʉ́ fá amɨk ndu ayi mpok, agú akoŋo bachǐmbɨ bhi. Apɔɔ ndǔ nnɛm.
@@ -4485,8 +4483,7 @@ Kʉ́ ka mbǐ ywi ambak chak.
 1712 Ɛ́kʉ bɛyǎ-bhap mánóko Yesu Acha. *Manɛ́m baghɔrɛ́ Grik nɛ bɛyǎ babhakanɛm mánóko nkwɔ́.
 1713 Kɛ bo Israɛl abhɛn Tɛsalónika bághókó nɔ́kɔ́ bɛ Pɔ̌l ǎghati Ɛyɔŋ Mandɛm ɛtɔk Bɛ́roa nkwɔ́, bárɔ́k arɛ́ mányíkɨ́si batɨ̌ bo, bɛ mánchyɛ́ bɔPɔ̌l ɛsɔŋɔri.
 1714 Tɛ́mté wu, batɨ̌ bǒ nkwɔ́ Yesu bátɨ́k Pɔ̌l bɛ andɔk tɛ angɔkɔnyɛ́n, kɛ Sáilas nɛ Tímɔti bárɔ́p Bɛ́roa.
-1715 Bo abhɛn bárɔ́ŋɔ́ nɛ Pɔ̌l, barɔk nɛ yi kpát bágháka Atɛns. Pɔ̌l aghati yɛ bhɔ mpok anɛ bápɛ̀tnsɛm bɛ́ mángátí Sáilas nɛ Tímɔti bɛ mánjáŋ mbi mántɛmɛri yi ayak amɛm ɛtɔk Átɛns. 
-Ɛnyɨŋ ɛnɛ́ ɛ́fákárí nɛ Pɔ̌l ɛtɔk Atɛns
+1715 Bo abhɛn bárɔ́ŋɔ́ nɛ Pɔ̌l, barɔk nɛ yi kpát bágháka Atɛns. Pɔ̌l aghati yɛ bhɔ mpok anɛ bápɛ̀tnsɛm bɛ́ mángátí Sáilas nɛ Tímɔti bɛ mánjáŋ mbi mántɛmɛri yi ayak amɛm ɛtɔk Átɛns.
 1716 Ɛnɛ́ Pɔ̌l ánòŋ Tímɔti nɛ Sáilas ɛtɔk Atɛns, ntɨ nɛ́ré sɔŋɔri yi amɛm bɛghɔ bɛ́ ɛtɔk ɛ́jwí nɛ bɛbhó njɔ ɛnɛ bo básɔt mbɔ bɔmandɛm.
 1717 Ɛ́kʉ́ are rɔŋ ɛkɛrɛ́ nɛnɨkɨ́mʉɛtí bo Israɛl yɛ̌ntɨkɨ nywɔp ankɛm nɔkɔ ɛpʉ́ítí nɛ bhɔ nɛ bǒ Grik abhɛn mánóko nyaka Mandɛm nkwɔ. Ǎrɔŋ nyaka nkwɔ nɛfísiɛ yɛ̌ntɨkɨ nywɔp ankʉ nɔkɔ ɛnyumɔ́t nɛ bo abhɛn bátwɔ̀ árɛ́.
 1718 Bǒfú bábhak abhɛn bátɔ̀ŋ mɛnyɨŋ ɛbhɛn bɛ́kɔ̀ ndɔ́ŋ ámɔ́t nɛ bakoŋo Ɛpikurɔs nɛ bɔ Stɔik,   Bɔ́ nkwɔ́ bákɛ̀m nyaka ɛpʉ́ítí nɛ yi. Pɔ̌l ǎghàti nyaka bho mɛnyɨŋ ɛ̌ti Yesu andɛmɛ nɔkɔ bɛ́ chɔŋ bawú mámpɛtnsɛm ndǔ nɛpɛ́m. Ɛ́kʉ́ mbɔk ɛyap báré way Pɔ̌l mandɛmɛ nɔkɔ bɛ́, “Ɛchɨŋtǐ ɛnyɨŋ ɛnɛ nkwɔ́ ǎrɛ̀m nɔ́ mbɔŋ yi?” Báchák bɛ, “Ɛ́chí mbɔ bɛ yi ǎghàti bho chí ɛ̌ti bɔmandɛm abhɛn sɛ́bhɨ́kɨ́ rɨŋɨ fá ɛtɔk ɛnɛ.”
@@ -4890,8 +4887,7 @@ Kʉ́ ka mbǐ ywi ambak chak.
 2829 [Pɔ̌l arɛm nɔkɔ nɔ bo Israɛl bátáka nɛ bágúrɛ mankɛm nɔkɔ bɛyǎ ɛpʉítí nɛ batɨ.]
 2830 Ndu mamiɛ́ ápay gbók, Pɔ̌l abhak ndu ɛkɛt ɛnɛ́ yi ásɔ́rɛ́ áchɔkɔ arɛ, yímbɔŋ anchyɛ nɔkɔ nkábhɛ́ ɛkɛt. Ansyɛpti nɔkɔ yɛ̌ntɨkɨ mmu anɛ arɔŋ bɛghɔ yi.
 2831 Nɛ are ghati bo ɛnyǔ Mandɛm ábhàk nɛ mmu mbɔ Mfɔ ywi, antɔŋ nɔkɔ nkwɔ́ bo mɛnyɨŋ kpoŋoroŋ ɛ̌ti Yesu Kristo Acha, nɛ yɛ̌ mmu kɛmɔ bɛchɛt yi mbi bɛ akɛ kʉ nɔ.28
-1
-Rom  
+1 
 11 Mɛ Pɔ̌l kɛ nchí sɨŋ ɛkáti ɛnɛ. Nchí mɔ̌bɛtok Yesu Kristo.   Mandɛm abhɨ́ŋɨ́ mɛ bɛ mbak mǔnto, abhʉrɛ mɛ nyáŋá bɛ ngati bhó Mbok Ndɨ́ndɨ́.
 12 Mbok Ndɨ́ndɨ́ nɛ kɛ Mandɛm afyɛ́ nyaka bariɛp bɛchyɛ tɛ mpok Yesu ábhɨ́kɨ́re two fá amɨk. Afʉɛ́t ntá barɛmɛ́ kɛpɨ̌ntɨ bhi bɛkʉ nɔ, nɛ bɔ básɨ́ŋ ɛ̌ti bariɛp amɔ amɛm Ɛkáti Mandɛm.
 13 Mbok Ndɨ́ndɨ́ nɛ achí ɛ̌ti Mɔ́ywi. Yí achi nyaka ɛbhárɛ́mɔ Mfɔ Debhít ndǔ nɛtwɔ́ anɛ yi átwɔ́ fá amɨk mbɔ nkwǎ.
@@ -5335,13 +5331,11 @@ Rom
 1620 Mandu mpok, chɔŋ Mandɛm mmu áchyɛ̀ kpák anchyɛ bhe awɔ́nɛm amfay Satan mpok bǎyátí yi amɨk. Nchí nɨkmʉɛt bɛ bɛrɨ̌ndu Yesu Kristo Acha mɛ́mbak nɛ bhe.
 1621 Tímɔti mmu ákʉ̀ bɛtɨk Kristo nɛ mɛ ǎtò be bakak. Batɨ̌ bo Israɛl bha, Lusiɔs nɛ Jáson nɛ Sɔsipatɛ bátò nkwɔ be bakak.
 1622 Mmɛ, Tɛ́tiɔs mmu Pɔ̌l ághátí mɛ mɛnyɨŋ ɛbhɛn nsɨ́ŋɨ́ amɛm ɛkáti ɛnɛ nchí to nkwɔ be bakak mbɔ ntɨ nkoŋo Acha.
-1623 Gáyɔs mmu mɛ́chɔ̀kɔ ɛkɛt ɛyi, nɛ nkúbhɛ́ arɛ́ kɛ̌ bǒnkwɔ báchɛ̀m, ǎtò be bakak. Ɛrástɔs, mbʉrɛ nkáp ɛtɔk nɛ máyɛsɛ Kwátɔs bátò bhe bakak. 
-1624 Áfɔ́k Yesu Kristo Acha ambak nɛ bhe mankɛm. Amen.
+1623-24 Gáyɔs mmu mɛ́chɔ̀kɔ ɛkɛt ɛyi, nɛ nkúbhɛ́ arɛ́ kɛ̌ bǒnkwɔ báchɛ̀m, ǎtò be bakak. Ɛrástɔs, mbʉrɛ nkáp ɛtɔk nɛ máyɛsɛ Kwátɔs bátò bhe bakak. Áfɔ́k Yesu Kristo Acha ambak nɛ bhe mankɛm. Amen.
 1625 Sɛ́mbɨ́tí Mandɛm. Yi ǎkway bɛkʉ be mǎntáŋ ndǔ nɛka ɛnɛka bɛkoŋo Mbok Ndɨ́ndɨ́ anɛ mɛ̌ghàti bo ɛ̌ti Yesu Kristo nɛ bɛkoŋo tɛtɛp anɛ nchí ghati bho. Yɔ́ achí nyaka bhɛ́sɛ́ bhɛ́sɛ́ ndǔ ɛrɔri mpok kɛ Mandɛm ákʉ́ sɛ́rɨ́ŋɨ yɔ.
 1626 Nɛ́nɛ, akʉ bǒ bɛtɔk mɛnkɛm mándɨ́ŋɨ́ yɔ kpoŋoroŋ mbɔ ɛnyǔ barɛmɛ́ kɛpɨ̌ntɨ básɨ́ŋɨ́ nyaka mɛnyɨŋ ɛbhɛn Mandɛm mmu achi nɛpɛ́m mpoknkɛm ághátí bhɔ. Aghati bhɔ mánsɨ́ŋ bɔ amɨk bɛ bo abhɛn bápú bo Israɛl mánkoŋo ɛnyɨŋ ɛnɛ yi árɛ̀m bɛ mánoko yi nɛ mangók nɔkɔ yi.
 1627 Kɛnókó kɛ́mbák ntá Mandɛm mmu árɨ́ŋɨ́ wu mɛnyɨŋ mɛnkɛm mpoknkɛm. Sɛ́chyɛ̀ yi kɛnókó ɛ̌ti ɛnyɨŋ ɛnɛ Yesu Kristo ákʉ́. Amen.16
 1
-1 Kɔrint 
 11 Mɛ Pɔ̌l mmu Mandɛm áyábhɛ́ bɛ́ mbák mǔnto Yesu Kristo kɛ̌ nchí nsɨ́ŋ ɛkáti ɛnɛ. Mandɛm abhɨ́ŋɨ́ mɛ́ bɛ́koŋo nkaysi ayi yímbɔŋ. Nchí fá nɛ manɔ́ ywɛsɛ́ Sɔstɛ́nes.
 12 Sɛ́sɨ̀ŋ ntá yɛká bǒ nkwɔ Mandɛm awu ɛtɔk Kɔrint. Sɛ́sɨ̀ŋ ntá yɛká bo Mandɛm ábhɨ́ŋɨ́, akʉ mǎmbák nyáŋá bɛ́ mǎmbak bǒbhi. Akʉ mǎmbák bǒbhi mpoknkɛm ndǔ bǎbhárɛ́ mmʉɛt nɛ Yesu Kristo. Nɛ nkúbhɛ́ ɛnyu ɛyɔ kɛ̌ yí ákʉ́ nɛ yɛ̌ntɨkɨ mmu anɛ ábhárɛ́ mmʉɛt nɛ Yesu mbǎnkɛm. Nɔ́ chí yɛ̌ntɨkɨ mmu anɛ ápú rɔ mɛ́nɨ̀kmʉɛt ntá Yesu Kristo anchyɛ nɔkɔ yí kɛnókó. Yí Yesu kɛ̌ achí Acha ywɛsɛ nɛ abhak Acha ntá yɛ̌ntɨkɨ ɛnyǔ mmu wu anɛ ághòk chí nɛ yí.
 13 Mandɛm Ɛta yɛsɛ́ nɛ Yesu Kristo Acha mántɔ́ŋ bé bɛrɨ̌ndu, mánchyɛ bhe kpák. 
@@ -5795,7 +5789,6 @@ Rom
 1623 Bɛrɨ̌ndu Yesu Acha mɛ́mbák nɛ bhe.
 1624 Nkɔŋ bě mankɛm. Sɛ́rɔp chi ndǔ nsoŋ amɔt ndu sɛ́bhárɛ́ mmʉɛt nɛ Yesu Kristo.16
 1
-2 Kɔrint 
 11 Mɛ Pɔ̌l, mǔnto Yesu Kristo bɛkoŋo nkaysi Mandɛm, kɛ nchí sɨŋ ɛkáti ɛnɛ. Nchí fá nɛ Tímɔti, mɔmáyɛsɛ amɔt. Nchí sɨŋ ntá yɛka bǒnkwɔ Mandɛm abhɛn ɛtɔk Kɔrint nɛ bo Mandɛm mankɛm abhɛn báchi atú Akáiya ankɛm.
 12 Mandɛm Ɛtayɛsɛ nɛ Yesu Kristo Acha mántɔ́ŋ be bɛrɨ̌ndu, mánchyɛ bɛ kpák. 
 13 Sɛ́mbɨ́tí Mandɛm nɛ Chi Yesu Kristo Acha ywɛsɛ. Achí Mandɛm ntínso nɛ ǎchyɛ bhɛsɛ nɛpɔptǐntɨ́.
@@ -6064,8 +6057,7 @@ Rom
 1312 Kaká ka batɨ sayri mbɔ bo Mandɛm.
 1313 Bǒnkwɔ mankɛm abhɛn báchí fá bátò nkwɔ bhe bakak.
 1314 Yesu Kristo Acha ántɔ́ŋ be bɛrɨ̌ndu, nɛ ɛkɔŋ Mandɛm ɛmbak amɛm batɨ yɛka, nɛ ɛyɔŋ ɛ́mɔt ɛnɛ Ɛfóŋó Bɛdyɛrɛ áchyɛ̀ ɛmbak nɛ be mankɛm.13
-1
-Galéshia  
+1 
 11 Mɛ Pɔ̌l mǔnto Yesu Kristo kɛ nchí sɨ́ŋ ɛkáti ɛnɛ. Puyɛ̌ bakwǎŋwaŋ kɛ báyábhɛ́ mɛ, nɛ puyɛ̌ nkwǎ kɛ átó mɛ. Chi Yesu Kristo nɛ Mandɛm Ɛtayɛsɛ mmu akʉ Yesu ampɛtnsɛm ndu nɛpɛ́m.
 12 Nchí sɨ́ŋ ntá yɛka bǒnkwɔ abhɛn atú Galéshia, nɛ batɨ bǒnkwɔ abhɛn báchí fá nɛ mɛ bachɛm nɛ mɛ bɛ́to be bakak.
 13 Mandɛm Ɛtayɛsɛ nɛ Yesu Kristo Acha mántɔŋ be bɛrɨ̌ndu, mánchyɛ bhe kpák.
@@ -6221,7 +6213,6 @@ Galéshia
 617 Bɛbho ɛchɔŋ, yɛ̌ mmu ákɛ́pɛrɛ chyɛ mɛ ɛsɔŋɔri mbɔnyunɛ bɛrɨŋ ɛbhɛn bɛchi mɛ amʉɛt bɛ́tɔ̀ŋ bɛ nchí mmu Yesu.
 618 Bɔ̌ma, bɛrɨ̌ndu Yesu Kristo Acha mɛ́mbak amɛm batɨ ayɛka. Amen.
 1
-Ɛfɛsɔs 
 11 Mɛ Pɔ̌l, mǔntó Yesu Kristo bɛkoŋo nkaysi Mandɛm, kɛ nchí sɨŋ ɛkáti ɛnɛ. Nchí sɨŋ ntá yɛka bo Mandɛm abhɛn bǎbhʉ̀rɛ bariɛp ndǔ Mandɛm áchɛ́mɛ́ bhe nɛ Yesu Kristo.
 12 Mandɛm Ɛtayɛsɛ nɛ Acha yɛsɛ Yesu Kristo mántɔ́ŋ be bɛrɨ̌ndu, mánchyɛ be kpák. 
 13 Sɛ́mbɨ́tí Mandɛm Mmu achi Chi Yesu Kristo Acha ywɛsɛ. Yi achyɛ́ bhɛsɛ yɛ̌ntɨkɨ áfɔ́k anɛ́ áfù amfay ndǔ nɛbhʉɛt anɛ yi achi Mfɔ arɛ́, mbɔnyunɛ ábhat bhɛsɛ nɛ Kristo.
@@ -6382,8 +6373,7 @@ Galéshia
 622 Ɛ̌ti yɔ, kɛ nchí to yi ntá yɛka bɛ ankʉ mǎndɨŋɨ ɛnyu bɛsɛ sɛchi, nɛ bɛ́ ámfyɛ́ bhe ntɨ.
 623 Mandɛm Ɛtayɛsɛ nɛ Yesu Kristo Acha mánchyɛ́ běka bǒnkwɔ kpák, mánkwak be bɛ mǎnkɔŋ batɨ, nɛ bɛ mǎndɔ́k ambɨ bɛbhɔŋ nɛka nɛ Yesu Kristo.
 624 Nchí nɨkmʉɛt bɛ Mandɛm ántɔ́ŋ bɛrɨ̌ndu ɛbhi ntá bǒ mankɛm abhɛn bákɔ́ŋɔ́ Yesu Kristo Acha nɛ ɛkɔŋ ɛnɛ ɛpu gu manyiɛp.6
-1
-Fílipi 
+1 
 11 Mɛ Pɔ̌l nɛ Tímɔti, bɛsɛ bakʉ̌ bɛtɨk Yesu Kristo kɛ sɛ́sɨ̀ŋ ɛkáti ɛnɛ. Sɛ́sɨ̀ŋ ntá yɛka bo Mandɛm mankɛm, bě bhó bǎbhárɛ́ mmʉɛt nɛ Yesu awu ɛtɔk Fílipi. Sayri sayri, sɛ́sɨ̀ŋ ntá yɛká bǒ batí nɛ be bho bǎkwàk bǒ batí bɛkʉ bɛtɨk Mandɛm ndǔ nkwɔ bakoŋo Yesu abhɛn Fílipi.
 12 Mandɛm Ɛtayɛsɛ nɛ Yesu Kristo Acha mántɔŋ be bɛrɨ̌ndu, mánchyɛ bhe kpák. 
 13 Yɛ̌ntɨkɨ mpok anɛ ntɨ ɛna nɛ́kwɛ́n be amʉɛt, nchí nɨkmʉɛt nkaka Mandɛm ɛ̌ti yɛká!
@@ -6492,7 +6482,6 @@ Fílipi
 422 Bǒ Mandɛm báchák mankɛm abhɛn báchí fá Rom nɛ mɛ, sayri sayri, abhɛn báchi bakʉ̌ bɛtɨk ntá mfɔ-ngo anɛ Rom, bátó nkwɔ bhe bakak.
 423 Nchí nɨkmʉɛt bɛ́ bɛrɨ̌ndu Yesu Kristo Acha mɛ́mbak amɛm batɨ ayɛka. Amen.
 1
-Kɔlɔse 
 11 Mɛ Pɔ̌l mǔnto Yesu Kristo bɛkoŋo nkaysi Mandɛm, kɛ nchí sɨŋ ɛkáti ɛnɛ. Nchí fá nɛ ntɨ mǔnkwɔ ywɛsɛ Tímɔti.
 12 Sɛ́tò yɔ ntá yɛka bo Mandɛm, be batɨ̌ bǒnkwɔ abhɛn bábhʉ̀rɛ bariɛp awu ɛtɔk Kɔlɔse nɛ Mandɛm abhat be nɛ Kristo. Mandɛm Ɛtayɛsɛ ántɔ́ŋ be bɛrɨ̌ndu anchyɛ bhe kpák. 
 13 Sɛ́kàka Mandɛm mmu Yesu Kristo Acha ywɛsɛ achi Mɔ́ywi, nɛ sɛ́nɨ̀kmʉɛt ɛ̌ti yɛka,
@@ -6591,8 +6580,7 @@ Kɔlɔse
 416 Mǎnáŋ mǎmpay ɛkáti ɛnɛ ndǔ nkwɔ ywɛka, kʉ ká mámpay yɔ ntá nkwɔ́ Laodísia nkwɔ. Pay ká nkwɔ ɛkáti ɛnɛ́ ntó ntá nkwɔ́ ɛtɔk Laodísia mpok anɛ bɔ bátó yɔ ntá yɛka.
 417 Nɛ ghati ká Akípɔs bɛ, “Ghɔ bɛ ɔnáŋá bɛtɨk ɛbhɛn Yesu Acha achyɛ wɔ.”
 418 Mɛ Pɔ̌l nchí sɨŋ bakak amɛn nɛ awɔ́ awa mɛmbɔŋ. Tɨk ka bɛ́ nchí ɛkɛrɛ́kɛnɔŋ. Mandɛm antɔŋ be bɛrɨ̌ndu.4
-1
-1 Tɛsalónika  
+1 
 11 Mɛ Pɔ̌l kɛ̌ nchí sɨ́ŋ ɛkáti ɛnɛ ntá yɛka nkwɔ Yesu abhɛn Tɛsalónika. Nchí sɨŋ ntá yɛka bǒ Mandɛm mmu achi Ɛtayɛsɛ nɛ be bho bǎbhárɛ́ mmʉɛt nɛ Yesu Kristo Acha. Nchí fá nɛ Sáilas nɛ Tímɔti. Mandɛm antɔ́ŋ be bɛrɨ̌ndu, anchyɛ bhe kpák. 
 12 Sɛ́chyɛ̀ bakak ntá Mandɛm mpoknkɛm ɛ̌ti yɛka mankɛm nɛ sɛ́fyɛ̀ bhé ndǔ nɛnɨkɨ́mʉɛt ɛnɛsɛ́ mpoknkɛm.
 13 Ɛ́chí ɛnyu ɛyɔ mbɔnyunɛ bɛsí Mandɛm Ɛtayɛsɛ, sɛ́pú ghɔkɔntɨk bɛtɨk ɛbhɛn bǎkʉ̀ ndǔ bǎbhɔŋɔ nɛka nɛ Yesu, nɛ ɛnyǔ bǎdɛ́nɛ́ mmʉɛt ndǔ bɛtɨk ɛbhɛka ɛ̌ti ɛkɔŋ, nɛ ɛnyǔ bǎte kpirí ndǔ nɛbhakántɨ́ ɛnɛka nɛ Yesu Kristo Acha.
@@ -6687,7 +6675,6 @@ Kɔlɔse
 527 Nchí ghati bhe ndǔ nnyɛ́n Yesu Acha bɛ mǎmpáy ɛkáti ɛnɛ ntá bǒnkwɔ mankɛm.
 528 Bɛrɨ̌ndu Yesu Kristo Acha mɛ́mbák nɛ bhe.5
 1
-2 Tɛsalónika
 11 Mɛ Pɔ̌l kɛ nchí sɨŋ ɛkáti ɛnɛ́ ntá yɛka bǒnkwɔ Yesu abhɛn Tɛsalónika. Nchí sɨŋ ntá yɛká bo Mandɛm mmu achi Ɛtayɛsɛ, be bho bǎbhárɛ́ mmʉɛt nɛ Yesu Kristo Acha. Nchí fá nɛ bɔ̌mayɛsɛ Sáilas nɛ Tímɔti.
 12 Mandɛm Ɛtayɛsɛ nɛ Yesu Kristo Acha mántɔŋ be bɛrɨ̌ndu, mánchyɛ bhe kpák. 
 13 Bɔ̌ma, sɛ́bhɔŋ bɛ́chyɛ́ bakak ntá Mandɛm mpoknkɛm ɛ̌ti yɛka. Ɛ́kway bɛ sɛ́nkʉ́ nɔ mbɔnyunɛ bǎbhɔ̀ŋ nɛka nɛ Yesu Kristo mǎndɔk nɔkɔ chí ambɨ, nɛ ɛkɔŋ ɛnɛ́ yɛ̌ntɨkɨ mmu ywɛka ábhɔ́ŋɔ́ nɛ batɨ ɛ́rɔ̀ŋ chí ambɨ.
@@ -6738,7 +6725,6 @@ Kɔlɔse
 317 Mɛ Pɔ̌l kɛ nchí sɨŋ nɛ awɔ́ wa ndu bɛkaka bhe. Ɛnyunɛ kɛ nchí sɨŋ ndǔ ngwɛnti bɛkáti bha mɛnkɛm bɛkʉ bo mándɨ́ŋɨ́ ɛkáti ɛnɛ́ ɛ́fú ntá ya.
 318 Bɛrɨ̌ndu Yesu Kristo Acha mɛ́mbák nɛ bhe mankɛm.3
 1
-1 Timɔti 
 11 Mɛ Pɔ̌l kɛ nchí sɨŋ ɛkáti ɛnɛ. Nchí nkʉbɛtɨk Mandɛm nɛ mǔnto Yesu Kristo. Mandɛm mmú ápɛmɛ bhɛsɛ nɛ Yesu Kristo mmu sɛ́bháká ntɨ nɛ yi ndu nɛpɛ́m ɛnɛn nɛ́twɔ̀ ambɨ kɛ bátó mɛ.
 12 Tímɔti, nchí sɨ́ŋ ntá yɛ, wɔ mmu ɔ́chí mbɔ mɔ́wa tɛtɛp ndu ɔ́bhɔ́ŋɔ́ nɛka nɛ Yesu mbɔ mɛ. Mandɛm Ɛtayɛsɛ nɛ Yesu Kristo Acha ywɛsɛ mántɔŋ wɔ bɛrɨ̌ndu nɛ ntínso, mánchyɛ wɔ kpák. 
 13 Tímɔti, dɔp Ɛ́fɛsɔs nkúbhɛ́ mbɔ ɛnyu ngati nyaka wɔ ɔ́nkʉ. Mɛ̌rɔ̀ŋ atú Masidónia. Dɔp arɛ́ ghati bo abhɛn bátɔ̀ŋ baraká nse bɛ mándɔ́ bɛ́tɔŋ mɛnyɨŋ ɛbhɔ. Mɛ̌rɔ̀ŋ atú Masidónia
@@ -6857,8 +6843,7 @@ Kɔlɔse
 619 Mbák mánkʉ ɛnyʉ yɔ, nɔ bábhʉ̀ɛrɛ ɛrɛmɛ́ kɛfɔ ɛkɛ́n kɛ́chí ntá yap, kɛfɔ ɛkɛ́n bábhɔ̀ŋ amfay ndǔ mpok anɛ átwɔ̀ ambɨ. Mbák mánkʉ nɔ, chɔŋ mámbɔŋ nɛpɛ́m ɛnɛn tɛtɛp.
 620 Tímɔti, kɛ́m bɛtɨk ɛbhɛn báchyɛ́ wɔ sayri. Ɔ́kɛ́ chwe ndǔ kɛpɨ ɛkɛn kɛpu chyɛ Mandɛm kɛnókó nɛ ɛpʉ́ítí nti ti ɛnɛ ɛpu kɔ ndɔ́ŋ ámɔt nɛ Ɛyɔŋ Mandɛm. Bo bákaysi bɛ mɛnyɨŋ ɛbhɔ chi nɛrɨŋɨ́, ɛnɛ́ ɛ́pú nɔ.
 621 Nɛrɛm anɛ mbɔk bho bárɛ̀m bɛ bárɨŋɨ ǎkʉ́ bábhɨ́kɨ́ pɛrɛ noko nɛtɔ́ŋ ɛnɛn tɛtɛp. Bɛrɨ̌ndu Mandɛm mɛ́mbák nɛ bhe mankɛm.6
-1
-2 Timɔti  
+1  
 11 Mɛ Pɔ̌l, kɛ nchi sɨŋ ɛkáti ɛnɛ. Nchí mǔnto Yesu Kristo, bɛkoŋo nkaysi Mandɛm. Yi ayap mɛ bɛ ngati bho Mbok Ndɨndɨ ɛ̌ti Yesu Kristo anɛ achi ɛ̌ti bariɛp amɛm yi afyɛ́ nyaka bɛchyɛ nɛpɛ́m ɛnɛn nɛbhɨkɨ bhɔŋ ngwɛnti nta bo abhɛn manoko Yesu Kristo.
 12 Nchí sɨŋ ntá yɛ Tímɔti, wɔ mú ɔ́chí mbɔ mɔ̌wa anɛ nde kɔŋ. Mandɛm Ɛtayɛsɛ nɛ Yesu Kristo Acha ywɛsɛ mántɔ́ŋ wɔ bɛrɨ̌ndu, mángɔ wɔ ntínso nɛ mánchyɛ wɔ kpák. 
 13 Tímɔti, nchí kaka Mandɛm ɛ̌ti yɛ. Nchí nɨkmʉɛt ntá yi nɛ ntɨ ɛnɛn nɛchí amɛm pɛ́pɛ́p mbɔ bachǐmbɨ bha bákʉ̀ nyaka. Nchí nɨkmʉɛt ndu bɛ́káka Mandɛm bɛti nɛ ngósí, yɛ̌ntɨkɨ mpok, anɛ ntɨ ɛna nɛ́kwɛ́n wɔ amʉɛt.
@@ -6946,7 +6931,6 @@ Kɔlɔse
 421 Nu bɛ́twɔ ndǔ mpok anɛ mbaŋ ábhɨ́kɨ́ re bho bɛ́kwɛn tontó. Nɔ́ chí ndǔ mpok nnɛ́m nɛbháŋ. Ɛbúlɔs nɛ Púdɛns nɛ Láinɔs nɛ Kláúdia nɛ bo nkwɔ́ Yesu báchak fá Rom báto wɔ bakak.
 422 Yesu Acha ámbák nɛ wɔ. Bɛrɨ̌ndu Mandɛm mɛ́mbák nɛ be mankɛm.4
 1
-Táytɔs 
 11 Mɛ Pɔ̌l, nkʉbɛtɨk Mandɛm nɛ mǔnto Yesu Kristo kɛ nchi nsɨŋ ɛkáti ɛnɛ. Bɛtɨk ɛbha chí bɛ́kwak bo abhɛn Mandɛm áyábhɛ́ bɛ́ mámbák abhi bɛ mánsɨ́kɨ́ ntɨ nɛ Yesu sayri, nɛ bɛ́kʉ bɔ́ mándɨŋɨ Ɛyɔŋ Mandɛm ɛnɛ Yesu átɔ́ŋɔ́ nyaka. Ɛyɔŋ ɛnɛ́ ɛ́kʉ̀ bo mámbʉrɛ bapɛ́m ayap mbɔ ɛnyǔ Mandɛm áyàŋ.
 12 Ɛ́nkʉ mámbaka ntɨ ndǔ nɛpɛ́m ɛnɛn nɛbhɨkɨ bhɔŋ ngwɛnti. Mandɛm afyɛ́ nyaka bariɛp ɛ̌ti nɛpɛmɛ́ nɔ tɛndǔ nɛbhǒnɛt, nɛ Mandɛm ápú sense.
 13 Mpok Mandɛm anɛ ápɛmɛ bhɛsɛ́ afyɛ́ ákwáy nɔkɔ, akʉ bo mándɨŋɨ ɛ̌ti nɛpɛ́m ɛnɛ́n bɛ́fʉɛ́t ndu Mbok Ndɨ́ndɨ́ Yesu anɛ yi afyɛ́ amɔ́ya bɛ ngati bho.
@@ -6990,26 +6974,19 @@ Táytɔs
 38 Mɛnyɨŋ ɛ́bhɛn ngátí nɛ́ wɔ bɛ́chí tɛtɛp. Nchi yaŋ yɛ bɛ ɔ́ngáti bo abhɛn mánoko Mandɛm mɛnyɨŋ ɛbhɛn sayri bɛ mámfyɛ́ ntí bɛ́kʉ bɛrɨ. Mɛnyɨŋ ɛbhɛn bɛ́rɨ tontó nɛ bɛ́kwàk yɛ̌ntɨkɨ mmu.
 39 Kɛ ɔbhɨkɨ bhɔ́ŋ bɛ́kɛm kɛfě nɛ bo ɛ̌ti mɛnyɨŋ ɛbhɛ́n bɛ́bhɨkɨ bhɔ́ŋ ntí nɛ nnɛt, nɛ ɛ̌ti manyɛ́n bachǐmbɨ. Kɛ́ táŋ nɛ bho ɛ̌ti bɛbhé ɛbhɛn Mandɛm áchyɛ nyaka Moses. Bɛkʉ mɛnyɨŋ ɛbhɔ apú kwak yɛ̌ mmu, nɛ bɛ́bɛp tontó.
 310 Ghatí mmu anɛ átwɔ̀ nɛ ákɔ́rɛ́ ándɔ́ barak ákɔ́rɛ́., Mbák ɔ́ngátí yí ndɔŋ amɔt, ndɔŋ ɛ́pay, abhɨkɨ ghók, fɛrɛ́ nti nɛ yi.
-311 Ɔrɨ́ŋɨ́ bɛ nkaysi ɛnyǔ mmu wu apú chak. Ǎkʉ bɛbʉ́ mpǒknkɛm nɛ bɛbʉ́ ɛbhi bɛ́tɔ̀ŋ bɛ́ bɛkwɛ́nɛ́ bɛ́chí nɛ yi. 
-Bɛyɔŋɔ́ ngwɛnti nɛ bakak
+311 Ɔrɨ́ŋɨ́ bɛ nkaysi ɛnyǔ mmu wu apú chak. Ǎkʉ bɛbʉ́ mpǒknkɛm nɛ bɛbʉ́ ɛbhi bɛ́tɔ̀ŋ bɛ́ bɛkwɛ́nɛ́ bɛ́chí nɛ yi.
 312 Mɛ̌tò wɔ mmu awu. Mbák ɛ́pú Atɛ́mas, chɔŋ ɛ́mbak Tíkíkɔs. Nɛghɔ́ anɛ ɔ́ghɔ́ mmu wap, ɔ́kɛ́ nɔ́k bɛ́twɔ ayak ndu bɛtɛmɛri mɛ ɛtɔk Nikópolis. Arɛ́ kɛ̌ mɛ̌bhák mpok manyiɛp áyá nɛ mbǎŋ ǎkwɛn tontó.
 313 Mpok Sɛ́nas ntaŋá manyé nɛ Apólos báté bɛ́rɔ́ŋ nɛkɔ, kʉ yɛ̌ntɨkɨ ɛnyɨŋ bɛ́ghɔ bɛ́ ɛnyɨŋ ɛ́bhɨkɨ chɛp bɔ́ ndǔ nɛkɔ ɛnap.
 314 Bǒ bhɛsɛ chi bǒ Mandɛm nɛ bábhɔŋ bɛ́fyɛ ntí ndu bɛkʉ bɛrɨ, bɛ́ ɛ́kɛ́ be bhɔ mmʉɛt bɛ́kwak bo abhɛn ɛyap ɛ́pú. Bákɛ́ bhák mbɔ mmu anɛ ápú kʉ bɛrɨ ndǔ nɛpɛ́m ɛni.
-315 Bo abhɛn báchi fá nɛ mɛ bátó wɔ bakak. Kaká bǒ nkwɔ́ abhɛn bákɔ́ŋ bhɛsɛ́ nɛ manoko ɛnyumɔt mbɔ bɛsɛ. Mandɛm ántɔ́ŋ bé bɛrɨ̌ndu.3
-Filɛmɔn  
-Ɛkáti Pɔ̌l ntá 
-Filɛmɔn
+315 Bo abhɛn báchi fá nɛ mɛ bátó wɔ bakak. Kaká bǒ nkwɔ́ abhɛn bákɔ́ŋ bhɛsɛ́ nɛ manoko ɛnyumɔt mbɔ bɛsɛ. Mandɛm ántɔ́ŋ bé bɛrɨ̌ndu.
 1
-Bakak
 1 Mɛ Pɔ̌l, mǔkɛnɔŋ ɛ̌ti Yesu Kristo kɛ nchí sɨŋ ɛkáti ɛnɛ. Nchí fá nɛ mɔ́mayɛsɛ Tímɔti. Filɛmɔn, nchí sɨŋ ntá yɛ anɛ ɛkɔŋ, nɛ ntɨ nkʉbɛtɨk ywɛsɛ.
 2 Kaká mɔmáyɛsɛ Afia, nɛ Akipɔs, ntɨ ntɛmɛ́ nɛnu Yesu mbɔ bhɛsɛ, nɛ ɔ́nkaka bǒnkwɔ abhɛn báchɛ̀m nɔkɔ ɛkɛt ɛyɛ ndu mɛnɨkmʉɛt ntá Mandɛm.
-3 Mandɛm Ɛtayɛsɛ nɛ Yesu Kristo Acha mántɔ́ŋ be bɛrɨ̌ndu mánchyɛ be kpák. 
-Pɔ̌l ákàka Mandɛm nɛ ǎnɨ̀kmʉɛt ɛ̌ti Filɛmɔn
+3 Mandɛm Ɛtayɛsɛ nɛ Yesu Kristo Acha mántɔ́ŋ be bɛrɨ̌ndu mánchyɛ be kpák.
 4 Filɛmɔn, yɛ̌ntɨkɨ mpok anɛ mɛ̌nɨ̀kmʉɛt nchí kaka Mandɛm ɛ̌ti yɛ,
 5 mbɔnyunɛ nchí ghok ɛ̌ti ɛkɔŋ ɛnɛ ɔ́bhɔ́ŋɔ́ nɛ bo Mandɛm, nɛ ɛnyu ɔ́bhɔ́ŋɔ́ nɛka nɛ Yesu Acha.
 6 Nɛ nchí nɨkmʉɛt ntá Mandɛm bɛ ɔ́nchɛ́m mmʉɛt nɛ batɨ̌ bǒnkwɔ ɔ́ndɔ́k nɔ́kɔ́ chi ambɨ, nɛ bɛ ɛyɔ ɛ́nkwak wɔ ɔ́ndɨ́ŋɨ́ bɛrɨ́tí mɛnyɨŋ mɛnkɛm ɛbhɛn Mandɛm áchyɛ̀ bhɛsɛ ndu sɛbharɛ mmʉɛt nɛ Kristo.
-7 Manɔ́, ɛnyu ɛnɛ́ ɔ́bhɔ́ŋɔ́ ɛkɔŋ nɛ batǐ bǒnkwɔ ɛ́chyɛ̀ mɛ bɛyǎ maŋák nɛ nɛpɔptǐntɨ́ tontó mbɔnyunɛ ɔ́kʉ́ batɨ̌ bo Mandɛm mankɛm ataŋ amɛm. 
-Pɔ̌l ǎnɨ̀kmʉɛt ntá Filɛmɔn ɛ̌ti Onɛ́simɔs
+7 Manɔ́, ɛnyu ɛnɛ́ ɔ́bhɔ́ŋɔ́ ɛkɔŋ nɛ batǐ bǒnkwɔ ɛ́chyɛ̀ mɛ bɛyǎ maŋák nɛ nɛpɔptǐntɨ́ tontó mbɔnyunɛ ɔ́kʉ́ batɨ̌ bo Mandɛm mankɛm ataŋ amɛm.
 8 Ndu mbárɛ́ mmʉɛt nɛ Kristo, nchí kway bɛghati wɔ ɔ́nkʉ ɛnyɨŋ ɛnɛ ɔ́bhɔ́ŋɔ́ bɛkʉ.
 9 Yɛ̌ nɔ, ɛ̌ti ɛkɔŋ, mɛ Pɔ̌l, mmǔ nsensi nɛ mǔkɛnɔŋ nɛ́nɛ ɛ̌ti Yesu Kristo, nchí nɨk wɔ chi mmʉɛt.
 10 Nchí nɨkmʉɛt ntá yɛ ɛ̌ti mɔ́wa Ɔnɛ́simɔs mmu ndɔ́bhɛ́ ɛtayi fá amɛm ɛkɛrɛ́kɛnɔŋ.
@@ -7025,19 +7002,13 @@ Pɔ̌l ǎnɨ̀kmʉɛt ntá Filɛmɔn ɛ̌ti Onɛ́simɔs
 20 Manɔ́, kʉ ɛnyɨŋ ɛnɛ ntá ya ndu nnyɛ́n Yesu Acha. Kʉ mbɔ ntɨ mmǔ Kristo bɛ ntɨ nɛ́mpɔ́p mɛ amɛm.
 21 Ndu nchí sɨŋ ɛkáti-nɛ, mbɨ́kɨ́ bhɔŋ bɛcháy nɛ wɔ mbɔnyunɛ ndɨ́ŋɨ́ bɛ chɔŋ ɔ́nkʉ ɛnyɨŋ ɛnɛ mɛ́yàŋ wɔ ɔ́nkʉ, nɛ ɔ́nkʉ mbɔŋ ɛncha ɛnyu ɛnɛ mɛ́yàŋ.
 22 Mpɛt nchí yaŋ bɛ ɔ́ngoko mɔ́kɛt ɔmbʉrɛ ntá ya. Nnókó bɛ́ chɔŋ Mandɛm angók nɛnɨkɨ́mʉɛt ɛnɛka, ankʉ ńtwɔ awu. 
-Ngwɛnti bakak
 23 Ɛpáfras, ntɨ mǔkɛnɔŋ ɛ̌ti Yesu Kristo ǎtò wɔ bakak.
 24 Mák nɛ Arístakɔs nɛ Demas nɛ Lukas, batɨ̌ bakʉ̌ bɛtɨk Mandɛm, bátò bhe bakak nkwɔ́.
 25 Bɛrɨ̌ndu Yesu Kristo Acha mɛ́mbak nɛ bhe.
-Hibru  
-Ɛkáti Pɔ̌l ntá 
-Bo Hibru
 1
-Yesu achá barɛmɛ́ kɛpɨ̌ntɨ abhɛn nku nsɨ́
 11 Ndǔ mpok anɛ áfʉɛ́rɛ́ ansɛm, Mandɛm ǎfʉ̀ɛt nyaka ntá barɛmɛ́ kɛpɨ̌ntɨ bhi ndu bɛrɛm kɛpɨ ntá bachǐmbɨ bhɛsɛ. Akʉ́ nɔ ndɔŋ nɛ ndɔŋ nɛ ndǔ bɛyǎ babhi.
 12 Kɛ ndǔ manywɔp anɛ ɛchɔŋ, anɛ́ achí kɛkwɔt nɛ ngwɛnti mmɨk, afʉɛ́t chi ntá Mɔ́ywi kɛ ǎrɛ̀m kɛpɨ ntá yɛsɛ. Yí kɛ Mandɛm ákʉ́ bɛ́ ámbák mmu anɛ mɛnyɨŋ mɛnkɛm bɛ́bhɔ́ŋɔ́ bɛbhak ɛbhi. Nɛ afʉɛ́t chí ntá yi kɛ ǎghoko yɛ̌ntɨkɨ ɛnyɨŋ.
-13 Yí amʉ́ɛ́t kɛ̌ kɛnɛ́m Mandɛm kɛ́tɔ̀ŋ kpoŋoroŋ nɛ ɛnyǔ mmu Mandɛm achi, nkúbhɛ́ ɛnyu mmu wu kɛ yi achi. Ɛyɔŋ ɛyi ɛbhɔŋ bɛtaŋ nɛ yɔ kɛ yi ásɔ̀t bɛkɛm mmɨk nkɛm. Mpok yi ánáŋá bɛkʉ ɛnyɨŋ ɛnɛ ɛ́kʉ̀ Mandɛm amfoŋori bɛbʉ́ bho bɛ mámbák pɛ́pɛ́p bɛsí bhi, akó amfay achɔkɔ ɛbhě awɔ́nɛm Mandɛm mmu ábhɔ́ŋɔ́ bɛtaŋ mɛnkɛm. 
-Mmɔ Mandɛm abhɔŋ bɛtaŋ mɛnkɛm
+13 Yí amʉ́ɛ́t kɛ̌ kɛnɛ́m Mandɛm kɛ́tɔ̀ŋ kpoŋoroŋ nɛ ɛnyǔ mmu Mandɛm achi, nkúbhɛ́ ɛnyu mmu wu kɛ yi achi. Ɛyɔŋ ɛyi ɛbhɔŋ bɛtaŋ nɛ yɔ kɛ yi ásɔ̀t bɛkɛm mmɨk nkɛm. Mpok yi ánáŋá bɛkʉ ɛnyɨŋ ɛnɛ ɛ́kʉ̀ Mandɛm amfoŋori bɛbʉ́ bho bɛ mámbák pɛ́pɛ́p bɛsí bhi, akó amfay achɔkɔ ɛbhě awɔ́nɛm Mandɛm mmu ábhɔ́ŋɔ́ bɛtaŋ mɛnkɛm.
 14 Ndu ɛchi nɔ, Mandɛm akʉ bɛ́ Mɔ́ywi ánchá bɔángɛl nkúbhɛ́ mbɔ ɛnyǔ nnyɛ́n ɛnɛn yi áchyɛ́ yi nɛcha ɛnɛn bɔángɛl.
 15 Yɛ̌ ángɛl apú anɛ Mandɛm ághátí yi bɛ, “Wɔ, ɔchí Mɔ́wa, nɛ ɛchɔŋ nchí rɛm bɛ ndɔp Ɛtayɛ.” Nɛ yɛ̌ chí bɛ́rɛ́m bɛ, “Chɔŋ mbak Ɛtayi nɛ ɔ́mbak Mɔ́wa”, abhɨ́kɨ́ rɛm ntá bɔángɛl.
 16 Nɛ yɛ̌ chí mpok Mandɛm átó Mmɔ̌ mbɨ ywi fá amɨk, arɛm chí bɛ́ bɔángɛl abhi mankɛm mánchyɛ́ Mɔ́ywi kɛnókó.
@@ -7049,19 +7020,15 @@ Mmɔ Mandɛm abhɔŋ bɛtaŋ mɛnkɛm
 112 Chɔŋ ɔ́mpɛt bhɔ́ ɔ́mfɛrɛ mbɔ bɛsɨ́ ndɛn ɛbhɛn mmu áwùpsi, kɛ wɔ ɔchí ɛnyumɔt mpoknkɛm, nɛ nɛpɛ́m ɛnɛ nɛbhɨkɨ bhɔŋ ngwɛnti.”
 113 Kɛ ntɨkɨ ángɛl Mandɛm ánáŋ ághátí yi bɛ, “Chɔkɔ́ fá ɛbhě awɔ́nɛm awa kpatɛ nkʉ bǒmpap abhɛ mándɔp mbɔ ɛnɔk ɛnɛ ɔ́nyàŋa bɛkak arɛ?”
 114 Pú bɔ́ mankɛm bachi chi bɛfóŋó ɛbhɛn bɛ́kʉ̀ bɛtɨk ɛbhi nɛ Mandɛm átò bhɔ bɛ mankwak bǒ abhɛn yi ábhɔ́ŋɔ́ bɛpɛmɛ?
-1
 2
-Bo bákɛ́ rɔ mbǐ nɛpɛ́m mánɛ́m ɛbhɨ
 21 Ndu ɛchi yɛ̌ nɔ, sɛ́bhɔŋ bɛsɔt mpok sɛ́mbʉrɛ mɛnyɨŋ ɛbhɛn sɛ́náŋ sɛ́ghɔ́kɔ́ bɛ sɛ́kɛ́ rɔ bhɔ sɛnɛm ɛbhɨ.
 22 Tɛ̌ndu mɛnyɨŋ ɛbhɛn bɔángɛl barɛmɛ bɛchi nyaka tɛtɛp, nɛ yɛ̌ agha anɛ abhɨkɨ bhʉɛrɛ bhɔ nɛ mmu anɛ átàŋ ntí, abhɔ̌ŋ nyaka ntɛmsi anɛ ákwáy nɛ yi,
 23 ná sɛ́kwày bɛbʉɛ ntɛmsi anɛ átwɔ̀ mbák sɛ́mbyak ɛrɛmɛ́ nɛpɛmɛ anɛ Mandɛm áyàŋ bɛ́pɛ́mɛ́ bhɛsɛ? Mbɔŋ Yesu Acha kɛ áyámbɨ bɛrɛm kpoŋoroŋ ɛ̌ti nɛpɛmɛ anɛ Mandɛm ápɛ̀mɛ bho, kɛ bo abhɛn bághókó bákʉ bɛsɛ sɛndɨŋɨ bɛ ɛchi tɛtɛp.
-24 Mandɛm are tɔ́ŋ bɛrɨŋ, ankʉ nɔkɔ mɛnyɨŋɨ́ maknkay mɛnyu nɛ mɛnyu ndu bɛtɔŋ nkwɔ bɛ́ bɛchí tɛtɛp. Are fʉɛ́t nkwɔ ndǔ akap anɛ Ɛfóŋó Bɛdyɛrɛ áchyɛ̀ bho, bɛ́kóŋo nkaysi yi. 
-Yesu kɛ atɔŋ bɛsɛ mbi nɛpɛ́m
+24 Mandɛm are tɔ́ŋ bɛrɨŋ, ankʉ nɔkɔ mɛnyɨŋɨ́ maknkay mɛnyu nɛ mɛnyu ndu bɛtɔŋ nkwɔ bɛ́ bɛchí tɛtɛp. Are fʉɛ́t nkwɔ ndǔ akap anɛ Ɛfóŋó Bɛdyɛrɛ áchyɛ̀ bho, bɛ́kóŋo nkaysi yi.
 25 Puyɛ̌ ntá bɔángɛl kɛ Mandɛm áchyɛ́ bɛtaŋ amfay mmɨk anɛ sɛ́rɛ̀m nɛ́ bɛ ǎtwɔ̀ ansɛm.
 26 Básɨŋ nɛbhʉ́ɛ́rɛ́fu amɛm Ɛkáti Mandɛm bɛ, “Mandɛm Acha, nkwǎŋwaŋ chí agha anɛ ɔ́re kaysi yi? Mmu anɛ áfú ntá Mandɛm chi agha anɛ ɔ́re fyɛ ntí nɛ yi?
 27 Ndǔ mɔ́mbɨŋɨ́ mpok, ɔsɛ́ptí yi bɛ bɔángɛl máncha yi. Ɔkʉ yɛ yí ámbɔ́ŋ kɛnɛ́m nɛ kɛnókó mbɔ mfɔ.
-28 Ɔchyɛ́ yi bɛtaŋ amfǎy yɛ̌ntɨkɨ ɛnyɨŋ.” 
-Bɛrɛm bɛ báchyɛ yi bɛtaŋ amfǎy yɛ̌ntɨkɨ ɛnyɨŋ ɛ́tɔ̀ŋ bɛ yɛ̌nyɨŋ ɛ́bhɨ́kɨ́ rɔp ɛnɛ ɛpu antɛnɛ́-yi. Kɛ sɛ́bhɨ́kɨ́ re ghɔ bɛ yɛ̌ntɨkɨ ɛnyɨŋ ɛchi antɛnɛ́-yi.
+28 Ɔchyɛ́ yi bɛtaŋ amfǎy yɛ̌ntɨkɨ ɛnyɨŋ.” Bɛrɛm bɛ báchyɛ yi bɛtaŋ amfǎy yɛ̌ntɨkɨ ɛnyɨŋ ɛ́tɔ̀ŋ bɛ yɛ̌nyɨŋ ɛ́bhɨ́kɨ́ rɔp ɛnɛ ɛpu antɛnɛ́-yi. Kɛ sɛ́bhɨ́kɨ́ re ghɔ bɛ yɛ̌ntɨkɨ ɛnyɨŋ ɛchi antɛnɛ́-yi.
 29 Kɛ sɛ́ghɔ̀ Yesu mmu bákʉ́ bɔángɛl máncha yi ndǔ mɔ́mbɨŋɨ mpok. Báchyɛ́ yi kɛnɛ́m nɛ kɛnókó mbɔ mfɔ ɛ̌ti ɛsɔŋɔri nɛwú. Chi ɛ̌ti bɛrɨ̌ndu Mandɛm kɛ yi ágú ɛ̌ti bo mankɛm.
 210 Mandɛm kɛ ághókó yɛ̌ntɨkɨ ɛnyɨŋ nɛ yɛ̌ntɨkɨ ɛnyɨŋ ɛchi ntá yi. Ndu áyàŋ nyaka bɛ bɛyǎ bho mámbɔ́ŋ mbi bɛbhak bɔ̌bhi nɛ mámbɔŋ kɛnɛ́m, ɛrɨ nyaka bɛ yi mmu ánɛ́nɛ́ bhɔ mbǐ wu ámfʉɛ́t ndǔ ɛsɔŋɔri bɛ ankwáy ndǔ yɛ̌ntɨkɨ mbi mbɔ mmǔ anɛ ákʉ̀ bɔ mámbɔŋ nɛpɛ́m.
 211 Yesu mmu ákʉ̀ bo mambák pɛ́pɛ́p bɛsí Mandɛm abhɔŋ chi amɔt nɛ bo abhɛn yi ákʉ́ bɛ mambák pɛ́pɛ́p. Ɛ̌ti yɔ, yi ábhɨ́kɨ́ bhɔŋ ntíánwɔ́p ndu bɛbhɨŋɨ bɔ bɛ, “Bɔ̌ma.”
@@ -7072,7 +7039,6 @@ Bɛrɛm bɛ báchyɛ yi bɛtaŋ amfǎy yɛ̌ntɨkɨ ɛnyɨŋ ɛ́tɔ̀ŋ bɛ y
 216 Sɛ́rɨŋɨ bɛ atwɔ nyaka bɛkwak chi bɛbhárɛ́bhɔ Ábraham, puyɛ̌ bɔángɛl.
 217 Abhɔŋ yɛ bɛrɔp nyaka mbɔ bhɛsɛ bakwǎŋwaŋ ndu yɛ̌ntɨkɨ mbi, bɛ́ ámbák mǔngo bachiǎkap anɛ ábhʉ̀rɛ bariɛp ami bɛsí Mandɛm ndu bɛtɨk ɛbhi nɛ bɛ ánkway bɛchyɛ akap ɛ̌ti bɛbʉ́ bǒ mankɛm.
 218 Tɛ̌ndu yímbɔŋ ánáŋ ábhɔ́ŋɔ́ nyaka ɛsɔŋɔri nɛ mamɔ, abhɔŋ mbi bɛkwak abhɛn mamɔ átwɔ̀ ntá yap.
-2
 3
 31 Bɔ̌ma, be bho bǎchi nyáŋá, mmu anɛ achi amfay abhɨ́ŋɨ́ be bɛ mǎmbak bǒbhi. Kaysí yɛ ka mmu anɛ Yesu achi. Yi kɛ Mandɛm átó mbɔ mǔngo bachiǎkap anɛ mɛnyɨŋ ɛ́bhɛn sɛ́nókó, mbɔnyu sɛ́ghàti bho kpoŋoroŋ.
 32 Ǎbhʉ̀rɛ nyaka bariɛp ami bɛsí Mandɛm mmu áyábhɛ́ yi bɛ ambak mǔngo bachiǎkap nɛ mǔnto nkúbhɛ́ mbɔnyu Moses nkwɔ achi nyaka mmu anɛ ábhʉ̀rɛ bariɛp ndǔ bɛtɨk ɛbhi amɛm ɛkɛrɛ Mandɛm.
@@ -7348,16 +7314,14 @@ Bɛrɛm bɛ báchyɛ yi bɛtaŋ amfǎy yɛ̌ntɨkɨ ɛnyɨŋ ɛ́tɔ̀ŋ bɛ y
 1316 Bǎkɛ́ rɔ bɛkʉ bɛrɨ, nɛ bɛkwak batɨ nɛ mɛnyɨŋ ɛbhɛn bǎbhɔŋɔ. Ɛnyǔ akap wu kɛ Mandɛm ábhɔŋ maŋák nɛ wu.
 1317 Ghók nɔ́kɔ́ ka bǒbati bhɛka, mǎmbɔ́ŋ nɛsɛptǐmʉɛt bɛsí bhap, mbɔnyunɛ bɔ kɛ báyɨ̀ŋɨ bhe, mbɔ bo abhɛn bábhɔ́ŋɔ́ bɛ́ghátí Mandɛm ɛnyu bɔ bákɛ́mɛ́ bhe. Ghók nɔ́kɔ́ ká bhɔ bɛ mánkʉ bɛtɨk ɛbhap nɛ maŋák, nɛ bɛ bɔ bákɛ́ bhɔŋ kɛsɔ́ti.
 1318 Nɨk nɔ́kɔ́ ká mmʉɛt ɛ̌ti yɛsɛ. Sɛ́rɨŋɨ bɛ batɨ yɛsɛ achi pɛ́pɛ́p, nɛ sɛ́yaŋ bɛbhak chak ndǔ yɛ̌ntɨkɨ ɛnyɨŋ ɛnɛ sɛ́kʉ̀.
-1319 Nchí ghati bhe nɛ ntɨ ɛna nɛnkɛm bɛ mǎnɨ́k nɔ́kɔ́ mmʉɛt ɛ̌ti ya bɛ Mandɛm ankwak mɛ mpɛt ntwɔ ntá yɛka mandú mpok. 
-Nɛnɨkɨ́mʉɛt ɛnɛn mmu anɛ ásɨ́ŋɨ́ ɛkáti ɛnɛ
+1319 Nchí ghati bhe nɛ ntɨ ɛna nɛnkɛm bɛ mǎnɨ́k nɔ́kɔ́ mmʉɛt ɛ̌ti ya bɛ Mandɛm ankwak mɛ mpɛt ntwɔ ntá yɛka mandú mpok.
 1320 Mandɛm mmu ákʉ̀ bɛ batɨ ayɛsɛ ambak amɛm kpák, ámbák nɛ bhe. Yi kɛ ákʉ́ Acha yɛsɛ Yesu Kristo áfú ndǔ nɛwú, apɛtnsɛm ndǔ nɛpɛ́m. Yi, Yesu, chi Mbabhɛri bághɔ́ŋɔmɛ́n ngo, anɛ ábhabhɛri bo Mandɛm mankɛm. Ɛ́chí ɛnyu yɔ mbɔnyunɛ manoŋ ɛmi arɔŋ nyaka amɨk ndu bɛkʉ bɛ nku anɛ Mandɛm ányú nɛ bo ánté mpoknkɛm.
 1321 Mandɛm ánchyɛ́ bhe yɛ̌ntɨkɨ ɛrɨ́tí ɛnyɨŋ, bɛ mǎnkóŋó nɔ́kɔ́ mɛnyɨŋ ɛbhɛn yi áyàŋ mǎnkʉ. Mandɛm ankʉ Yesu Kristo ankwak be mǎnkʉ́ nɔ́kɔ́ mɛnyɨŋ ɛbhɛn bɛ́chyɛ yi maŋák. Sɛ́nchíɛ Yesu Kristo bakak mpoknkɛm ɛ̌ti kɛnɛ́m ɛki. Amen. 
 1322 Bɔ̌ma, mpɛt nchí ghati bhe bɛ mǎnsɔt ɛyɔŋ ɛya ɛnɛ nsɨ́ŋɨ́ ndu bɛ́fyɛ bhe ntɨ nɛ ɛkɛ́bhɛ́ntɨ. Mbɨ́kɨ́ sɨŋ ɛrɔ́rí ɛkáti.
 1323 Nchí yaŋ mǎndɨŋɨ bɛ báfɛ́rɛ́ mɔmáyɛsɛ Tímɔti ɛkɛrɛ́kɛnɔŋ. Mbák yi antwɔ ayak, chɔŋ ntwɔ́ nɛ yi ndu bɛghɔ bhe.
 1324 Kaká ká bǒbati bhɛka mankɛm, nɛ bo Mandɛm báchák mankɛm. Bǒnkwɔ abhɛn báfú Itali bátó bhe bakak.
 1325 Bɛrɨ̌ndu Mandɛm mɛ́mbak nɛ bhe mankɛm.13
-1
-Jems  
+1 
 11 Mɛ Jems, mmɔ̌bɛtok Mandɛm nɛ Yesu Kristo Acha kɛ̌ nchí sɨ́ŋ ɛkáti ɛnɛ. Nchí sɨ́ŋ ntá yɛká bǒ Mandɛm, bě bho bǎtaka ndǔ bɛtɔkɔ́ mmɨk mɛnkɛm. Nchí tó be mankɛm bakak. 
 12 Bɔ̌ma, yɛ̌ntɨkɨ ɛnyǔ ɛsɔŋɔri ɛnɛ́ ɛ́tɛ́mɛ́rí mmu ywɛka ámbɔ́ŋ chi maŋák,
 13 mbɔnyunɛ bǎrɨŋɨ bɛ mbák mamɔ ántwɔ́, mǎndɔk nɔkɔ chi ambɨ bɛtɔŋ bɛ bǎbhɔŋ nɛka nɛ Mandɛm tɛtɛp, ɛyɔ ɛ́kʉ mǎnté kpirí nɛ Mandɛm tɛndǔ ngwɛ́nti ɛ́ncha ɛnyu ɛsɨ́.
@@ -7470,8 +7434,7 @@ Jems
 518 Apɛt anɨk mmʉɛt. Mandɛm akʉ yɛ nɛbu nɛ́nɛ́nɛ, manyiɛp asɛp gbokórókórók achwe amɨk, mmɨk apɔp, abho bɛchyɛ nɛnyíɛ́.
 519 Bɔ̌ma, mbák mmu ywɛká arɔ́ mbi Mandɛm anɛ́m ɛbhɨ, achák ánjá yí ámpɛtnsɛm.
 520 Dɨŋɨ́ ká bɛ yɛ̌ agha anɛ ákwáká mmu bɛbʉ́ wu bɛ ántɨ́knsɛm ndǔ bɛbʉ́ ɛbhi ámpɛ́tnsɛm ntá Mandɛm, mmǔ wu afɛ́rɛ́ yí ndǔ nɛwú, nɛ Mandɛm ǎfoŋori bɛyǎ bɛbʉ́ ɛbhi.5
-1
-1 Píta  
+1 
 11 Mɛ Píta, mǔnto Yesu Kristo kɛ nchí sɨ́ŋ ɛkáti ɛnɛ. Nchí sɨ́ŋ ntá yɛka bo Mandɛm, be bho bǎchi mankɔ nɛ bǎtáká mbaŋ nɛ mbaŋ, mbɔk atú Pɔ́ntɔs, báchák atú Galéshia, abhɛnɛfu atú Kapadóshiya, báchák atú Esia, nɛ abhɛnɛfu atú Bitínia.
 12 Mandɛm Ɛtayɛsɛ ayap be tɛsáy bɛkoŋo nkaysi anɛ yi ánáŋ ábhɔ́ŋɔ́ nyaka ɛ̌ti yɛka. Ɛfóŋó Bɛdyɛrɛ ákú mǎmbák nyáŋá bɛ mǎmbák bo abhɛn bághòk Yesu Kristo nɛ bɛ ansɔt manoŋ mi ánkʉ mǎmbák pɛ́pɛ́p. Mandɛm ántɔ́ŋ be bɛyǎ bɛrɨ̌ndu, anchyɛ be kpák tontó tonto. 
 13 Sɛ́nchíɛ bakak ntá Mandɛm Mmu achi Chi ntá Acha ywɛsɛ Yesu Kristo! Ɛ̌ti bɛyǎ ntínso ɛni, achyɛ́ bhɛsɛ nɛpɛ́m nɛkɔ ndu ákʉ́ Yesu Kristo áfú ndʉ́ nɛwú apɛtnsɛm ndʉ́ nɛpɛ́m. Ɛyɔ ɛ́kʉ sɛ́bhaka ntɨ nɛ́nɛ bɛ chɔŋ sɛmbɔŋ nɛpɛ́m nɛ yi.
@@ -7581,8 +7544,7 @@ Jems
 512 Sáilas akwak mɛ bɛsɨŋ ɛkáti ɛnɛ. Nsɔt yí mbɔ ntɨ manɔ anɛ mɛ̌kwáy bɛsɨkɨntɨ nɛ yi. Ntí anɛ nsɨ́ŋɨ́ bhe mɔ́mbɨŋɨ́ ɛkáti ɛnɛ chi ndu bɛ́fyɛ bhe ntɨ nɛ bɛghati bhe ɛnyu Mandɛm áyɛ̀t bho. Tě ká kpirí arɛ́.
 513 Ɛka bǒnkwɔ abhɛn bachi fá ɛtɔk Bábilɔn, bátò be bakak. Mandɛm ayap bɔ́ nkwɔ mbɔ bhe. Mɔ́wa Mák nkwɔ ǎtò be bakak.
 514 Kaká ká batɨ sayri nɛ ɛkɔŋ ɛnɛ Yesu. Kpák ámbák nɛ be mankɛm abhɛn bǎchɛ́mɛ́ mmʉɛt nɛ Kristo.
-1
-2 Píta  
+1  
 11 Mɛ Símun Píta, mǔbɛtok, nɛ mǔnto Yesu Kristo kɛ nchí sɨŋ ɛkáti ɛnɛ. Nchí sɨŋ ntá bo abhɛn mánoko Yesu Kristo mbɔ bhɛsɛ. Yi mmu achi Mandɛm ywɛsɛ nɛ Mpɛmɛ ywɛsɛ kɛ akʉ bɛsɛ́ mankɛm sɛ́bhɔŋ nɛka nɛ yi. Yi achi chak ndǔ mɛnyɨŋ yi ákʉ.
 12 Mandɛm ántɔ́ŋ be bɛrɨ̌ndu andɔk nɔkɔ chi ambɨ, anchyɛ bɛ kpák anɛ ájwi amɛm batɨ yɛka ndǔ bǎrɨ̀ŋɨ yi nɛ Acha ywɛsɛ Yesu Kristo. 
 13 Yesu Kristo áchyɛ́ bhɛsɛ bɛtaŋ bɛkʉ sɛ́ndɨŋɨ Mandɛm mmu ábhɨ́ŋɨ́ bhɛsɛ bɛ sɛ́mbɔ́ŋ kɛnɛ́m nɛ yi, nɛ bɛ sɛ́nkoŋo ɛpɨŋ ɛyi ɛnɛ́ ɛrɨ ɛcha. Ndu sɛ́rɨ̀ŋɨ yi, ǎchyɛ bhɛsɛ yɛ̌ntɨkɨ ɛnyɨŋ ɛnɛ́ ɛ́chɛ́bhɛ́ bhɛsɛ. Nɛ ǎchyɛ bhɛsɛ bɛtaŋ ɛbhi bɛ sɛ́mbɔ́ŋ nɛpɛ́m nɛkɔ nɛ ɛpɨŋ ɛnɛ́ bo Mandɛm bábhɔ́ŋɔ́ bɛbhɔŋ.
@@ -7647,7 +7609,6 @@ Jems
 317 Abhɛn ɛkɔŋ, tɛ̌ndu bǎrɨ́ŋɨ́ mɛnyɨŋ ɛbhɛn ambɨ ambɨ, sɔt ka mpok bɛ́ bɛkwɛ́nɛ́ bo abhɛn bápú bhʉɛrɛ bɛbhé bɛ́kɛ́ pɔkɔ́ bhe mǎndɔp chi bo abhɛn bábhɨ́kɨ́ te kpirí.
 318 Kɛ dɔ́k ká ambɨ bɛgo ndǔ nɛrɨŋɨ anɛ bǎrɨ̀ŋɨ Yesu Kristo mmu achi Acha nɛ Mpɛmɛ ywɛsɛ, mǎndɔk ambɨ bɛ́go ndu bɛ́bhak ɛnyunɛ́ bɛrɨ̌ndu bhi bɛ́bhák nɛ bhe. Kɛnókó kɛ́mbak nɛ yi nɛ́nɛ, nɛ mpoknkɛm.3
 1
-1 Jɔ̌n  
 11 Ɛkáti ɛnɛ ɛ́rɛ̀m ɛ̌ti Ɛyɔŋ ɛnɛ ɛchi tɛ mpok anɛ bábhɨ́kɨ́re ghoko mmɨk. Sɛ́ghók ɛ̌ti yi, sɛ́ghɔ́ yi nɛ amɨ́k, sɛ́yɨ́ŋɨ yi, nɛ sɛ́tɔk yi nɛ amɔ. Ɛyɔŋ ǎchyɛ Nɛpɛ́m.
 12 Nɛpɛ́m abhésí nyaka nɛ sɛ́ghɔ yi, nɛ sɛ́rɛ̀m ɛ̌ti yi. Sɛ́ghàti bhe ɛ̌ti Nɛpɛ́m. Abhɨ́kɨ́ bhɔŋ ngwɛnti nɛ achi nyaka nɛ Ɛta kɛ ǎbhesi ntá yɛsɛ́.
 13 Sɛ́ghàti bho ɛ̌ti mmǔ anɛ sɛ́ghɔ́, nɛ sɛ́ghók mɛnyɨŋ ɛbhɛn yi átɔ́ŋɔ́, bɛ́ be nkwɔ mǎmbɔŋ nɛchɛmɛ́mʉɛt nɛ bhɛsɛ. Nɛ, sayri sayri, nɛchɛmɛ́mʉɛt ɛnɛsɛ ɛnɔ nɛchi nɛ Ɛta nɛ Mɔ́ywi Yesu Kristo.
@@ -7757,12 +7718,10 @@ Jems
 519 Sɛ́rɨŋɨ bɛ sɛchi bɔ̌ Mandɛm kɛ bǒ mmɨk mankɛm báchí amɔ mbʉ́mbʉ.
 520 Sɛ́rɨŋɨ bɛ́ Mmɔ Mandɛm atwɔ anɛ́nɛ́ batɨ ayɛsɛ amɛm bɛ sɛ́ndɨ́ŋɨ́ Mandɛm mmu achi tɛtɛp. Nɛ́nɛ, sɛbharɛ mmʉɛt nɛ Mandɛm mbɔ ɛnyǔ sɛ́bhárɛ́ mmʉɛt nɛ Mɔ́ywi Yesu Kristo. Yí aywǐntí kɛ̌ áchí Mandɛm tɛtɛp nɛ yí kɛ̌ áchyɛ̀ nɛpɛ́m ɛnɛn nɛbhɨkɨ bhɔŋ ngwɛnti.
 521 Bɔ̌bha, bǎkɛ́ bhɔŋ yɛ̌nyɨŋ bɛkʉ nɛ bɔ mandɛm nsé.5
-1
-2 Jɔ̌n 
+1 
 1 Mɛ Jɔ̌n mǔnti bakoŋo Yesu amɔt kɛ̌ nchí sɨŋ ɛkáti ɛnɛ. Nchí sɨŋ ntá yɛ, wɔ máyɛsɛ anɛ Mandɛm áyábhɛ́ nɛ ntá bɔ̌bhɛ. Nkɔŋ be tɛtɛp, nɛ puyɛ̌ chi mɛ awánti kɛ̌ nkɔ́ŋ bhe. Yɛ̌ntɨkɨ mmu áchák anɛ árɨŋɨ tɛtɛp Mandɛm akɔŋ be.
 2 Nkɔŋ be mbɔnyunɛ bɛsɛ́ sɛ́rɨ́ŋɨ́ tɛtɛp anɛ ǎbhák amɛm batɨ ayɛsɛ nɛ abhak nɛ bɛsɛ tɛ ndǔ nɛŋɔkɔ́mɨk ɛnɛn nɛ́twɔ̀.
-3 Mandɛm Ɛta nɛ Yesu Kristo mántɔ́ŋ bɛsɛ́ bɛrɨ̌ndu, mángɔ́ bhɛsɛ́ ntínso, nɛ mánchyɛ bhɛsɛ kpák ndu sɛ́kòŋo tɛtɛp Mandɛm nɛ ndǔ sɛ́bhɔ̀ŋ ɛkɔŋ nɛ batɨ. 
-Sɛ́nkóŋó tɛtɛp sɛ́nkɔŋ batɨ
+3 Mandɛm Ɛta nɛ Yesu Kristo mántɔ́ŋ bɛsɛ́ bɛrɨ̌ndu, mángɔ́ bhɛsɛ́ ntínso, nɛ mánchyɛ bhɛsɛ kpák ndu sɛ́kòŋo tɛtɛp Mandɛm nɛ ndǔ sɛ́bhɔ̀ŋ ɛkɔŋ nɛ batɨ.
 4 Mbɔ̌ŋ nyaka bɛyǎ maŋák ndu bɛtɛmɛri mbɔk bɔ̌bhɛ nɛ bɛghɔ bɛ bɔ́ bákòŋo tɛtɛp Mandɛm nkúbhɛ́ mbɔ ɛnyǔ Mandɛm Ɛta ághátí bɛsɛ sɛ́nkʉ́.
 5 Máyɛsɛ, nchí nɨkmʉɛt bɛ sɛ́nkɔŋ batɨ. Ɛnɛ ɛ́pú ɛbhé ɛkɔ. Mɛ́chyɛ̀ wɔ chi nkúbhɛ́ ɛbhé ɛnɛ sɛ́rɨ́ŋɨ́ tɛ mpok sɛbho bɛkoŋo Yesu.
 6 Nɛ ɛkɔŋ ɛnɛ́ tɛtɛp chi bɛkʉ ɛnyɨŋ ɛnɛ Mandɛm ághátí bhɛsɛ sɛnkʉ. Ɛbhé Mandɛm ɛ́rɛ̀m bɛ sɛ́nkɔŋ batɨ nkúbhɛ́ mbɔ ɛnyǔ bǎghókó tɛ nɛbhǒnɛt.
@@ -7773,8 +7732,7 @@ Sɛ́nkóŋó tɛtɛp sɛ́nkɔŋ batɨ
 11 Nchí rɛm nɔ mbɔnyunɛ yɛ̌ntɨkɨ mmu anɛ ákàka ɛnyǔ mmǔ wu áchɛ̀m mmʉɛt nɛ yí ndǔ bɛbʉ́ ɛbhi. 
 12 Mbɔ̌ŋ bɛyǎ mɛnyɨŋ bɛchak bɛghati bhe, kɛ mbɨ́kɨ́ yaŋ bɛfyɛ bhɔ mɛnkɛm amɛm ɛkáti ɛnɛ. Mbɔ̌ŋ nkaysi bɛ́twɔ bɛghɔ bhe bɛ sɛ́ndɛm kɛpɨ bɛsí nɛ bɛsi, bɛ́ maŋák amɛsɛ anjwi pɔɔt.
 13 Bɔ mɔ́mayɛka anɛ ngɔrɛ́ anɛ Mandɛm áyábhɛ́ bátò bhe bakak nkwɔ.
-1
-3 Jɔ̌n 
+1 
 1 Mɛ Jɔ̌n mǔnti bakoŋo Yesu kɛ nchí sɨŋ ɛkáti ɛnɛ. Gáyɔs, nchí sɨ́ŋ ntá yɛ, wɔ mmu nkɔ́ŋɔ́ tɛtɛp.
 2 Anɛ ɛkɔŋ, nchí nɨkmʉɛt bɛ ɔ́kɛ́ me, nɛ bɛ yɛ̌ntɨkɨ ɛnyɨŋ ɛmbak sayri nɛ wɔ nkúbhɛ́ mbɔ ɛnyǔ nɛpɛ́m ɛnɛ mbɔ mmu Mandɛm nɛchi sayri.
 3 Mbɔ̌ŋ bɛyǎ maŋák mpok ngókó ɛnyɨŋ ɛnɛ mbɔk bɔ̌mayɛsɛ ndǔ nnyɛ́n Yesu bátwɔ́ fá baghati bɛsɛ. Bághátí bhɛsɛ bɛ wɔ ɔchí mmǔ tɛtɛp ndǔ mbi Mandɛm nkúbhɛ́ mbɔ ɛnyu, sayri sayri, ɔ́kóŋó tɛtɛp.
@@ -7788,10 +7746,8 @@ Sɛ́nkóŋó tɛtɛp sɛ́nkɔŋ batɨ
 11 Anɛ ɛkɔŋ, ɔ́kɛ́ ŋɔkɔ ɛbɛ́ptí ɛpɨŋ. Ŋɔkɔ́ chí ɛnyɨŋ ɛnɛ ɛ́rɨ́. Mmǔ anɛ ákʉ̀ bɛrɨ chi mmu Mandɛm, kɛ mmu anɛ ákʉ̀ bɛbʉ́ ábhɨ́kɨ́re ghɔ Mandɛm.
 12 Yɛ̌ntɨkɨ mmu ndǔ ɛká Mandɛm ǎrɛ̀m ɛrɨ́rɨ́ ɛ̌ti Dɛmɛ́triyɔs. Yɛ̌ chi nɛpɛ́m ɛni nɛ́tɔ̀ŋ bɛ akɔŋ tɛtɛp Mandɛm nɛ achi ɛrɨ́tí mmu. Bǎrɨŋɨ bɛ ɛnyɨŋ ɛnɛ mɛ́rɛ̀m ɛchi tɛtɛp. 
 13 Mbɔ̌ŋ bɛyǎ mɛnyɨŋ bɛ́gháti bhe, kɛ mbɨ́kɨ́ yaŋ bɛsɨŋ bɔ mɛnkɛm amɛm ɛkáti ɛnɛ.
-14 Nnókó bɛ nchí twɔ chɔŋ bɛghɔ bhe mandú mpok. Mpok yɔ, chɔŋ sɛ́ndɛm kɛpɨ bɛsí nɛ bɛsi.
-15 Kpák Mandɛm ámbak nɛ bhe. Mamʉrɛ bhɛ mankɛm ndǔ nkwɔ Mandɛm abhɛn fá bátò wɔ bakak. Kaká yɛ̌ntɨkɨ mmʉɛrɛ wa anɛ achi ndǔ nkwɔ Mandɛm abhɛn awu.
+14-15 Nnókó bɛ nchí twɔ chɔŋ bɛghɔ bhe mandú mpok. Mpok yɔ, chɔŋ sɛ́ndɛm kɛpɨ bɛsí nɛ bɛsi. Kpák Mandɛm ámbak nɛ bhe. Mamʉrɛ bhɛ mankɛm ndǔ nkwɔ Mandɛm abhɛn fá bátò wɔ bakak. Kaká yɛ̌ntɨkɨ mmʉɛrɛ wa anɛ achi ndǔ nkwɔ Mandɛm abhɛn awu.
 1
-Jud  
 1 Mɛ Júd kɛ nchí sɨŋ ɛkáti ɛnɛ. Nchí mǔbɛtok Yesu Kristo nɛ nchí manɔ Jems. Nchí sɨŋ ntá yɛka bo abhɛn Mandɛm mmu achi Ɛtayɛsɛ abhɨ́ŋɨ́. Yí akɔŋ be nɛ ákʉ́ bɛ Yesu ámbák Mbabhɛri ywɛka.
 2 Mandɛm ángɔ́ bhe ntínso, ánchyɛ bhe kpák nɛ ɛkɔŋ ɛyi tontó tontó. 
 3 Abhɛn ɛkɔŋ, ndu nchí yáŋ tontó bɛsɨŋ be ɛ̌ti nɛpɛmɛ anɛ Mandɛm ápɛ́mɛ́ bhɛsɛ mankɛm, ngɔ́ bɛ mbɔŋ bɛsɨŋ ngáti bhe bɛ mǎnkɛ́m tɛtɛp anɛ Mbok Ndɨ́ndɨ́ bɛ ambak mbɔ ɛnyǔ báchyɛ́ yɔ ntá bo Mandɛm ndɔŋ amɔt ndak ámáy.
@@ -7818,7 +7774,6 @@ Jud
 24 Sɛ́nchíɛ yɛ bakak ntá Mandɛm. Yi ǎkway bɛkɛm be bɛ bǎkɛ́ kwɛ́n ansɛm. Chɔŋ yi ankʉ bǎkɛ nyɔ́p mmʉɛt, antwɔ́ nɛ bhe bɛsí bhi. Arɛ́, bǎghɔ́ kɛnókó ɛki, mǎmbak maŋák mpoknkɛm.
 25 Sɛ́mbɨ́tí Mandɛm. Yi aywǐnti kɛ áchí Acha. Yí kɛ áfʉ́ɛ́rɛ́ ntá Yesu Kristo bɛ́pɛ́mɛ́ bɛsɛ. Yi kɛ ábhɔ́ŋɔ́ kɛnókó, nɛ kɛnɛ́m, nɛ bɛtaŋ, nɛ kɛfɔ kɛnkɛm, mpoknkɛm anɛ áfʉ́ɛ́rɛ́ ansɛm, nɛ nɛ́nɛ, ngwɛnti ti. Amen.
 1
-Kɛnɔ́ Jɔ̌n 
 11 Ɛkáti ɛnɛ ɛ́rɛ̀m ɛ̌ti mɛnyɨŋ ɛbhɛ́n bɛbhɔŋɔ bɛfakari mandú mpok. Mandɛm achyɛ́ nyaka Yesu Kristo mɛnyɨŋ ɛbhɔ bɛ yi antɔŋ bɔ ntá bǒbɛtɔk abhi. Yesu ató yɛ ángɛl akʉ mmɔ̌bɛtok aywi Jɔ̌n arɨŋɨ bhɔ.
 12 Jɔ̌n até ntísiɛ ndǔ Ɛyɔŋ Mandɛm, nɛ ndǔ mɛnyɨŋ ɛbhɛn Yesu Kristo ákʉ́ yi arɨŋɨ. Asɨ́ŋ yɛ̌ntɨkɨ ɛnyɨŋ ɛnɛ yi ághɔ́.
 13 Ɛ́rɨ ɛcha ntá mmǔ-nɛ ápày nɛ ɛyɔŋ amfay bɛyɔŋ ɛbhɛ́n-nɛ bɛ́rɛ̀m ɛ̌ti mɛnyɨŋ ɛbhɛn bɛbhɔŋɔ bɛfakari. Ɛ́rɨ ɛcha ntá bo abhɛn bátà batú bɛghok ndǔ bápày ɛkáti ɛnɛ nɛ mámbʉrɛ mɛnyɨŋ abhɛn básɨ́ŋɨ́ amɛm ɛkáti ɛnɛ mbɔnyunɛ mpok anɛ mɛnyɨŋ ɛbhɛn bɛbhɔŋɔ bɛfakari arɔp chi kɛkwɔt. 
@@ -7865,9 +7820,7 @@ Kɛnɔ́ Jɔ̌n
 223 Chɔŋ nsɔt nɛwú nsak bo abhɛn bákòŋo mɛnyɨŋ ɛbhɛn yi átɔ̀ŋ. Nɛ chɔŋ bɛká bǒnkwɔ mankɛm mándɨŋɨ bɛ́ Mmɛ kɛ̌ nchí chak nkaysi bo nɛ batɨ̌ yap, nɛ chɔŋ ńkap yɛ̌ntɨkɨ mmu ayɛka bɛ́kóŋó ɛbhi bɛtɨk.
 224 Kɛ mbák chí be nkwɔ achak amɛm ɛtɔk Tiatíra abhɛn bábhɨ́kɨ́ te kákátí ndǔ mɛnyɨŋ ɛbhɛ́n Jɛ́sɛbɛl átɔ̀ŋ, be bho bábhɨ́kɨ́ ghɔk mɛnyɨŋ ɛbhɛn mbɔk bǒ bábhɨ̀ŋɨ bɛ barak Satan anɛ áré bhɛsɛ, nchí ghati bhe bɛ, mpú chyɛ be yɛ̌ ntu áchák.
 225 Ndiɛrɛ ɛnyɨŋ ɛ́mɔt kɛ nchí ghati bhe. Tě ká kpirí ndǔ mɛnyɨŋ ɛbhɛn mǎnókó kpátɛ mɛ̌mpɛtnsɛm.
-226 Mmǔ anɛ ánú ásɔ́rɛ́ awɔ́nɛm, nɛ árɔ̀ŋ ambɨ bɛkʉ mɛnyɨŋ ɛbhɛn ndɛmɛ tɛ ndu ngwɛnti, chɔŋ nchyɛ́ yi bɛtaŋ amfay bǒ bɛtɔkɔ́ mmɨk,
-227 nkubhɛ mbɔ ɛnyu Ɛtaya áchyɛ́ mɛ bɛtaŋ amfǎy yap, chɔŋ yí ankɛ́m kɛfɔ amfay yap nɛ ɛnɔkɔ́ kɛfɔ ɛnɛ baghoko nɛ ɛse awɔ. Anchɔkɔti bhɔ mbɔ ɛnyu bádɛ̀p ɛtě ntɔp amɨk ɛ́nchɔkɔti.
-228 Chɔŋ nchyɛ́ yi nɛmbe ɛnɛn nɛyǐnywɔp ndu bɛtɔŋ bɛ anu asɔt awɔ́nɛm.
+226:28 Mmǔ anɛ ánú ásɔ́rɛ́ awɔ́nɛm, nɛ árɔ̀ŋ ambɨ bɛkʉ mɛnyɨŋ ɛbhɛn ndɛmɛ tɛ ndu ngwɛnti, chɔŋ nchyɛ́ yi bɛtaŋ amfay bǒ bɛtɔkɔ́ mmɨk, nkubhɛ mbɔ ɛnyu Ɛtaya áchyɛ́ mɛ bɛtaŋ amfǎy yap, chɔŋ yí ankɛ́m kɛfɔ amfay yap nɛ ɛnɔkɔ́ kɛfɔ ɛnɛ baghoko nɛ ɛse awɔ. Anchɔkɔti bhɔ mbɔ ɛnyu bádɛ̀p ɛtě ntɔp amɨk ɛ́nchɔkɔti. Chɔŋ nchyɛ́ yi nɛmbe ɛnɛn nɛyǐnywɔp ndu bɛtɔŋ bɛ anu asɔt awɔ́nɛm.
 229 Mmu anɛ ábhɔ́ŋɔ́ batú ángók ɛnyɨŋ ɛnɛ́ Ɛfóŋó Mandɛm ághàti bɛka bǒnkwɔ́.”
 3
 31 Yesu arɔk ambɨ bɛghati Jɔ̌n bɛ, “Sɨ́ŋ ɛkáti ɛnɛ tó ntá ángɛl anɛ ábhàbhɛri bǒnkwɔ abhɛn ɛtɔk Sádis. Sɨ́ŋ kʉ bɔ mandɨŋɨ bɛ bɛyɔŋɔ ɛbhɛn bɛ́fú ntá mmu anɛ ábhɔ́ŋɔ́ bɛfóŋó Mandɛm tándrámɔt nɛ mambe tándrámɔt. ‘Ndɨ́ŋɨ́ bɛtɨk ɛbhɛka. Bǎbhɔŋ ɛrɨ́tí nnyɛ́n bɛsí bho bɛ bǎchí nɛpɛ́m, ɛnɛ́ bǎchi bawú.
@@ -7942,10 +7895,7 @@ Kɛnɔ́ Jɔ̌n
 72 Ngɔ́ yɛ ángɛl achák ndǔ áfú atú anɛ mmok áfù anko nɔkɔ amfay. Akɛ́m ɛnyɨŋ ɛnɛ básɔ̀t bɛfyɛ bɛrɨŋ amʉɛt bo Mandɛm mmu achi nɛpɛ́m. Ángɛl wu asáy abhɨŋɨ bɔángɛl manwi abhɛn Mandɛm achyɛ bɛtaŋ bɛ mánchɔŋti mmɨk nɛ bɔmanyu.
 73 Aghati bhɔ bɛ, “Bǎkɛ́ chɔŋti mmɨk, bǎkɛ́ chɔŋti bɔmanyu nɛ bǎkɛ́ chɔŋti mɛnɔk kpátɛ sɛ̌mfyɛ ɛrɨŋ Mandɛm aywɛsɛ nɛfó yɛ̌ntɨkɨ nkʉbɛtɨk aywi.”
 74 Ngók yɛ ndǔ mmu ághàti mɛ mpǎy bhɔ abhɛn báfyɛ́ ɛrɨŋ Mandɛm nɛfó yɛ̌ntɨkɨ mmu wap. Bábhak nkwɔ bho bɛsa tándrámɔt nsɛm manwi abhɛn báfù ndǔ manɛrɛ́kɛt Israɛl byo nɛ apay ankɛm.
-75 Ndǔ bɔ mankɛm, nka byo nɛ apay bafu ndǔ nnɛrɛ́kɛt Júda, nka byo nɛ ɛpay bafu ndǔ nnɛrɛ́kɛt Rúbɛn, nka byo nɛ ɛpay bafu ndǔ nnɛrɛ́kɛt Gad.
-76 Nká byo nɛ ɛpay bafu ndǔ nnɛrɛ́kɛt Asha, nka byo nɛ ɛpay bafu ndǔ nnɛrɛ́kɛt Náftali, nka byo nɛ ɛpay ndǔ nnɛrɛ́kɛt Manáse.
-77 Nká byo nɛ ɛpay bafu ndu nnɛrɛ́kɛt Símiɔn, nka byo nɛ ɛpay ndu nnɛrɛ́kɛt Lɛ́vi, nka byo nɛ ɛpay bafu ndǔ nnɛrɛ́kɛt Isáka.
-78 Nká byó nɛ ɛpay bafu ndǔ nnɛrɛ́kɛt Sɛ́bulɔn, nka byo nɛ ɛpay bafu ndǔ nnɛrɛ́kɛt Josɛ́f, nɛ nka byo nɛ ɛpay bafu ndǔ nnɛrɛ́kɛt Bɛnjamin. 
+75:8 Ndǔ bɔ mankɛm, nka byo nɛ apay bafu ndǔ nnɛrɛ́kɛt Júda, nka byo nɛ ɛpay bafu ndǔ nnɛrɛ́kɛt Rúbɛn, nka byo nɛ ɛpay bafu ndǔ nnɛrɛ́kɛt Gad. Nká byo nɛ ɛpay bafu ndǔ nnɛrɛ́kɛt Asha, nka byo nɛ ɛpay bafu ndǔ nnɛrɛ́kɛt Náftali, nka byo nɛ ɛpay ndǔ nnɛrɛ́kɛt Manáse. Nká byo nɛ ɛpay bafu ndu nnɛrɛ́kɛt Símiɔn, nka byo nɛ ɛpay ndu nnɛrɛ́kɛt Lɛ́vi, nka byo nɛ ɛpay bafu ndǔ nnɛrɛ́kɛt Isáka. Nká byó nɛ ɛpay bafu ndǔ nnɛrɛ́kɛt Sɛ́bulɔn, nka byo nɛ ɛpay bafu ndǔ nnɛrɛ́kɛt Josɛ́f, nɛ nka byo nɛ ɛpay bafu ndǔ nnɛrɛ́kɛt Bɛnjamin. 
 79 Awu áfʉ́ɛ́rɛ́ nɔ́kɔ́, ngɔ́ ngɛ́mtay bo abhɛn yɛ̌ mmu apu kway bɛpay. Báfú ndǔ yɛ̌ntɨkɨ ɛtɔk nɛ ndǔ yɛ̌ntɨkɨ nnɛrɛ́kɛrɛ́ bho. Báfú ndǔ yɛ̌ntɨkɨ nkwɔ bho, nɛ ndǔ bǒ yɛ̌ntɨkɨ ɛyɔŋɔ́tɔk. Bábhak téé bɛsí ɛnɔkɔ́ kɛfɔ Mandɛm nɛ bɛsí Mɔ́nkwɔmɛ́n, nɛ ndɛn pɛ́pɛ́p amʉɛt nɛ bɛwɔ̌amaŋ amɔ.
 710 Báré bɨk nɛ ɛyɔŋ ɛtaŋataŋ bɛ, “Mandɛm aywɛsɛ mmu achi ndu ɛnɔkɔ́ kɛfɔ nɛ Mɔ́nkwɔmɛ́n kɛ bápɛ́mɛ́ bhɛsɛ!”
 711 Bɔangɛl mankɛm batée bakap ɛnɔkɔ́ kɛfɔ nɛ bǒbati bhɔ nɛ mɛnyɨŋ ɛbhɛn bɛchi nɛpɛ́m mɛnwi bhɔ. Bákwɛn amɨk bɛsí ɛnɔkɔ́ kɛfɔ báre chyɛ Mandɛm kɛnókó,
@@ -8040,8 +7990,7 @@ Kɛnɔ́ Jɔ̌n
 1214 Kɛ báchyɛ́ ngɔrɛ́ wu bɛbhap bɛpay ɛbhɛ́n nnɛ́m ɛbhɔkɔ bɛ yi ándé, ámbʉ́ɛ́ nnya mbʉ́mbʉ andɔk amɛm baso, ndǔ nɛbhʉɛt anɛ bábhɔ́ŋɔ́ mɛne yi ndǔ mamiɛ́ arat nɛ ɛbhɔk ndǔ nɛbhʉɛt anɛ nnya mbʉ́mbʉ apu kway bɛkʉ yi yɛ̌nyɨŋ.
 1215 Nnyɔ́ áré gboko manyiɛp anyu amɛn achi mbɔ nnyɛ́n bɛ́ nɛ́mpɔ́kɔ́ yi mbɔ ɛghori manyiɛp.
 1216 Kɛ mmɨk akwak yi. Bɛghárɛ́ bɛ́fú arɛ́ mɛnyu nnyɛ́n ɛnɛn nɛ́fù anyǔ nnyɔ́.
-1217 Nnya mbʉ́mbʉ ábé yɛ́ ntɨ nɛ ngɔrɛ́ wu. Arɔk mɛnu nɛ bɔ̌bhi nɛ bɛbhárɛ́ bɔ̌bhi. Bɔ̌bhi bhɔ chi bo abhɛn bábhʉ̀rɛ bɛbhé Mandɛm, nɛ báte batísiɛ ndǔ mɛnyɨŋ ɛbhɛn Yesu ákʉ́ bo barɨŋɨ.
-1218 Nnyɔ́ áte yɛ ndǔ ɛ̌siɛ́p, angɔkɔ manyu ánoŋ nɔkɔ arɛ́.
+1217 Nnya mbʉ́mbʉ ábé yɛ́ ntɨ nɛ ngɔrɛ́ wu. Arɔk mɛnu nɛ bɔ̌bhi nɛ bɛbhárɛ́ bɔ̌bhi. Bɔ̌bhi bhɔ chi bo abhɛn bábhʉ̀rɛ bɛbhé Mandɛm, nɛ báte batísiɛ ndǔ mɛnyɨŋ ɛbhɛn Yesu ákʉ́ bo barɨŋɨ. Nnyɔ́ áte yɛ ndǔ ɛ̌siɛ́p, angɔkɔ manyu ánoŋ nɔkɔ arɛ́.
 13
 131 Awu áfʉ́ɛ́rɛ́ nɔ́kɔ́, ngɔ́ nnya mbʉ́mbʉ ndu áfù amɛm manyu. Abhɔ́ŋ bati tándrámɔt nɛ babhaŋ byo nɛ bɔ̌ntǎ-kɛfɔ byo ndu babhaŋ ayi. Yɛ̌ntɨkɨ ntí ywi ábhɔ́ŋ nnyɛ́n ɛnɛn nɛ́rɛ̀m ɛbʉ́bʉ ɛ̌ti Mandɛm.
 132 Nnya yɔ abhak mbɔ mbé. Bayarɛ́kak ayi ábhak mbɔ anɛ nnya mbʉ́mbʉ anɛ bábhɨ̀ŋɨ bɛ bɛ́ɛ. Nnyu yi ábhák mbɔ anɛ nkʉ. Nnya mbʉ́mbʉ achyɛ nnya yɔ bɛtaŋ ɛbhi nɛ ɛnɔkɔ́ kɛfɔ ɛyi nɛ bɛtaŋ ɛbhɛn yi ábhɔ́ŋɔ́.

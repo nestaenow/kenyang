@@ -1,5 +1,4 @@
 1
-Matthew
 1 This is the list of the ancestors of Jesus Christ, a descendant of David, who was a descendant of Abraham.
 2 From Abraham to King David, the following ancestors are listed: Abraham, Isaac, Jacob, Judah and his brothers; then Perez and Zerah (their mother was Tamar), Hezron, Ram, Amminadab, Nahshon, Salmon, Boaz (his mother was Rahab), Obed (his mother was Ruth), Jesse, and King David.
 3 (1:2)
@@ -4143,13 +4142,11 @@ Matthew
 24Simon said to Peter and John, Please pray to the Lord for me, so that none of these things you spoke of will happen to me.
 25After they had given their testimony and proclaimed the Lord's message, Peter and John went back to Jerusalem. On their way they preached the Good News in many villages of Samaria.
 26An angel of the Lord said to Philip, Get ready and go south to the road that goes from Jerusalem to Gaza. (This road is not used nowadays.)
-27So Philip got ready and went. Now an Ethiopian eunuch, who was an important official in charge of the treasury of the queen of Ethiopia, was on his way home. He had been to Jerusalem to worship God and was going back home in his carriage. As he rode along, he was reading from the book of the prophet Isaiah.
-28 (8:27)
+27-28So Philip got ready and went. Now an Ethiopian eunuch, who was an important official in charge of the treasury of the queen of Ethiopia, was on his way home. He had been to Jerusalem to worship God and was going back home in his carriage. As he rode along, he was reading from the book of the prophet Isaiah.
 29 The Holy Spirit said to Philip, Go over to that carriage and stay close to it.
 30 Philip ran over and heard him reading from the book of the prophet Isaiah. He asked him, Do you understand what you are reading?
 31 The official replied, How can I understand unless someone explains it to me? And he invited Philip to climb up and sit in the carriage with him.
-32 The passage of scripture which he was reading was this: He was like a sheep that is taken to be slaughtered, like a lamb that makes no sound when its wool is cut off. He did not say a word.
-33 He was humiliated, and justice was denied him. No one will be able to tell about his descendants, because his life on earth has come to an end.
+32-33 The passage of scripture which he was reading was this: He was like a sheep that is taken to be slaughtered, like a lamb that makes no sound when its wool is cut off. He did not say a word. He was humiliated, and justice was denied him. No one will be able to tell about his descendants, because his life on earth has come to an end.
 34 The official asked Philip, Tell me, of whom is the prophet saying this? Of himself or of someone else?
 35 Then Philip began to speak; starting from this passage of scripture, he told him the Good News about Jesus.
 36As they traveled down the road, they came to a place where there was some water, and the official said, Here is some water. What is to keep me from being baptized?
@@ -4201,7 +4198,8 @@ Matthew
 41 Peter reached over and helped her get up. Then he called all the believers, including the widows, and presented her alive to them.
 42 The news about this spread all over Joppa, and many people believed in the Lord.
 43 Peter stayed on in Joppa for many days with a tanner of leather named Simon.
-101 There was a man in Caesarea named Cornelius, who was a captain in the Roman army regiment called The Italian Regiment.
+10
+1 There was a man in Caesarea named Cornelius, who was a captain in the Roman army regiment called The Italian Regiment.
 2 He was a religious man; he and his whole family worshiped God. He also did much to help the Jewish poor people and was constantly praying to God.
 3 It was about three o'clock one afternoon when he had a vision, in which he clearly saw an angel of God come in and say to him, Cornelius!
 4 He stared at the angel in fear and said, What is it, sir? The angel answered, God is pleased with your prayers and works of charity, and is ready to answer you.
@@ -4249,7 +4247,8 @@ Matthew
 46 For they heard them speaking in strange tongues and praising God's greatness. Peter spoke up:
 47 These people have received the Holy Spirit, just as we also did. Can anyone, then, stop them from being baptized with water?
 48So he ordered them to be baptized in the name of Jesus Christ. Then they asked him to stay with them for a few days.
-111 The apostles and the other believers throughout Judea heard that the Gentiles also had received the word of God.
+11
+1 The apostles and the other believers throughout Judea heard that the Gentiles also had received the word of God.
 2 When Peter went to Jerusalem, those who were in favor of circumcising Gentiles criticized him, saying,
 3 You were a guest in the home of uncircumcised Gentiles, and you even ate with them!
 4So Peter gave them a complete account of what had happened from the very beginning:
@@ -4279,7 +4278,8 @@ Matthew
 28 One of them, named Agabus, stood up and by the power of the Spirit predicted that a severe famine was about to come over all the earth. (It came when Claudius was emperor.)
 29 The disciples decided that they each would send as much as they could to help their fellow believers who lived in Judea.
 30 They did this, then, and sent the money to the church elders by Barnabas and Saul.
-121About this time King Herod began to persecute some members of the church.
+12
+1About this time King Herod began to persecute some members of the church.
 2 He had James, the brother of John, put to death by the sword.
 3 When he saw that this pleased the Jews, he went ahead and had Peter arrested. (This happened during the time of the Festival of Unleavened Bread.)
 4After his arrest Peter was put in jail, where he was handed over to be guarded by four groups of four soldiers each. Herod planned to put him on trial in public after Passover.
@@ -4304,7 +4304,8 @@ Matthew
 23At once the angel of the Lord struck Herod down, because he did not give honor to God. He was eaten by worms and died.
 24 Meanwhile the word of God continued to spread and grow.
 25Barnabas and Saul finished their mission and returned from Jerusalem, taking John Mark with them.
-131 In the church at Antioch there were some prophets and teachers: Barnabas, Simeon (called the Black), Lucius (from Cyrene), Manaen (who had been brought up with Governor Herod), and Saul.
+13
+1 In the church at Antioch there were some prophets and teachers: Barnabas, Simeon (called the Black), Lucius (from Cyrene), Manaen (who had been brought up with Governor Herod), and Saul.
 2 While they were serving the Lord and fasting, the Holy Spirit said to them, Set apart for me Barnabas and Saul, to do the work to which I have called them.
 3 They fasted and prayed, placed their hands on them, and sent them off.
 4 Having been sent by the Holy Spirit, Barnabas and Saul went to Seleucia and sailed from there to the island of Cyprus.
@@ -4335,8 +4336,7 @@ Matthew
 29And after they had done everything that the Scriptures say about him, they took him down from the cross and placed him in a tomb.
 30But God raised him from death,
 31 and for many days he appeared to those who had traveled with him from Galilee to Jerusalem. They are now witnesses for him to the people of Israel.
-32And we are here to bring the Good News to you: what God promised our ancestors he would do, he has now done for us, who are their descendants, by raising Jesus to life. As it is written in the second Psalm, You are my Son; today I have become your Father.
-33 (13:32)
+32-33And we are here to bring the Good News to you: what God promised our ancestors he would do, he has now done for us, who are their descendants, by raising Jesus to life. As it is written in the second Psalm, You are my Son; today I have become your Father.
 34And this is what God said about raising him from death, never to rot away in the grave: I will give you the sacred and sure blessings that I promised to David.
 35As indeed he says in another passage, You will not allow your faithful servant to rot in the grave.
 36 For David served God's purposes in his own time, and then he died, was buried with his ancestors, and his body rotted in the grave.
@@ -4356,7 +4356,8 @@ Matthew
 50But the Jews stirred up the leading men of the city and the Gentile women of high social standing who worshiped God. They started a persecution against Paul and Barnabas and threw them out of their region.
 51 The apostles shook the dust off their feet in protest against them and went on to Iconium.
 52 The believers in Antioch were full of joy and the Holy Spirit.
-141 The same thing happened in Iconium: Paul and Barnabas went to the synagogue and spoke in such a way that a great number of Jews and Gentiles became believers.
+14
+1 The same thing happened in Iconium: Paul and Barnabas went to the synagogue and spoke in such a way that a great number of Jews and Gentiles became believers.
 2But the Jews who would not believe stirred up the Gentiles and turned them against the believers.
 3 The apostles stayed there for a long time, speaking boldly about the Lord, who proved that their message about his grace was true by giving them the power to perform miracles and wonders.
 4 The people of the city were divided: some were for the Jews, others for the apostles.
@@ -4384,7 +4385,8 @@ Matthew
 26 and from there they sailed back to Antioch, the place where they had been commended to the care of God's grace for the work they had now completed.
 27 When they arrived in Antioch, they gathered the people of the church together and told them about all that God had done with them and how he had opened the way for the Gentiles to believe.
 28And they stayed a long time there with the believers.
-151Some men came from Judea to Antioch and started teaching the believers, You cannot be saved unless you are circumcised as the Law of Moses requires.
+15
+1Some men came from Judea to Antioch and started teaching the believers, You cannot be saved unless you are circumcised as the Law of Moses requires.
 2 Paul and Barnabas got into a fierce argument with them about this, so it was decided that Paul and Barnabas and some of the others in Antioch should go to Jerusalem and see the apostles and elders about this matter.
 3 They were sent on their way by the church; and as they went through Phoenicia and Samaria, they reported how the Gentiles had turned to God; this news brought great joy to all the believers.
 4 When they arrived in Jerusalem, they were welcomed by the church, the apostles, and the elders, to whom they told all that God had done through them.
@@ -4425,7 +4427,8 @@ Matthew
 39 There was a sharp argument, and they separated: Barnabas took Mark and sailed off for Cyprus,
 40 while Paul chose Silas and left, commended by the believers to the care of the Lord's grace.
 41 He went through Syria and Cilicia, strengthening the churches.
-161 Paul traveled on to Derbe and Lystra, where a Christian named Timothy lived. His mother, who was also a Christian, was Jewish, but his father was a Greek.
+16
+1 Paul traveled on to Derbe and Lystra, where a Christian named Timothy lived. His mother, who was also a Christian, was Jewish, but his father was a Greek.
 2All the believers in Lystra and Iconium spoke well of Timothy.
 3 Paul wanted to take Timothy along with him, so he circumcised him. He did so because all the Jews who lived in those places knew that Timothy's father was Greek.
 4As they went through the towns, they delivered to the believers the rules decided upon by the apostles and elders in Jerusalem, and they told them to obey those rules.
@@ -4465,7 +4468,8 @@ Matthew
 38 The police officers reported these words to the Roman officials; and when they heard that Paul and Silas were Roman citizens, they were afraid.
 39So they went and apologized to them; then they led them out of the prison and asked them to leave the city.
 40 Paul and Silas left the prison and went to Lydia's house. There they met the believers, spoke words of encouragement to them, and left.
-171 Paul and Silas traveled on through Amphipolis and Apollonia and came to Thessalonica, where there was a synagogue.
+17
+1 Paul and Silas traveled on through Amphipolis and Apollonia and came to Thessalonica, where there was a synagogue.
 2According to his usual habit Paul went to the synagogue. There during three Sabbaths he held discussions with the people, quoting
 3 and explaining the Scriptures, and proving from them that the Messiah had to suffer and rise from death. This Jesus whom I announce to you, Paul said, is the Messiah.
 4Some of them were convinced and joined Paul and Silas; so did many of the leading women and a large group of Greeks who worshiped God.
@@ -4499,7 +4503,8 @@ Matthew
 32 When they heard Paul speak about a raising from death, some of them made fun of him, but others said, We want to hear you speak about this again.
 33And so Paul left the meeting.
 34Some men joined him and believed, among whom was Dionysius, a member of the council; there was also a woman named Damaris, and some other people.
-181After this, Paul left Athens and went on to Corinth.
+18
+1After this, Paul left Athens and went on to Corinth.
 2 There he met a Jew named Aquila, born in Pontus, who had recently come from Italy with his wife Priscilla, for Emperor Claudius had ordered all the Jews to leave Rome. Paul went to see them,
 3 and stayed and worked with them, because he earned his living by making tents, just as they did.
 4 He held discussions in the synagogue every Sabbath, trying to convince both Jews and Greeks.
@@ -4527,7 +4532,8 @@ Matthew
 26 He began to speak boldly in the synagogue. When Priscilla and Aquila heard him, they took him home with them and explained to him more correctly the Way of God.
 27Apollos then decided to go to Achaia, so the believers in Ephesus helped him by writing to the believers in Achaia, urging them to welcome him. When he arrived, he was a great help to those who through God's grace had become believers.
 28 For with his strong arguments he defeated the Jews in public debates by proving from the Scriptures that Jesus is the Messiah.
-191 While Apollos was in Corinth, Paul traveled through the interior of the province and arrived in Ephesus. There he found some disciples
+19
+1 While Apollos was in Corinth, Paul traveled through the interior of the province and arrived in Ephesus. There he found some disciples
 2 and asked them, Did you receive the Holy Spirit when you became believers? We have not even heard that there is a Holy Spirit, they answered.
 3 Well, then, what kind of baptism did you receive? Paul asked. The baptism of John, they answered.
 4 Paul said, The baptism of John was for those who turned from their sins; and he told the people of Israel to believe in the one who was coming after him -- that is, in Jesus.
@@ -4568,7 +4574,8 @@ Matthew
 39But if there is something more that you want, it will have to be settled in a legal meeting of citizens.
 40 For after what has happened today, there is the danger that we will be accused of a riot. There is no excuse for all this uproar, and we would not be able to give a good reason for it.
 41After saying this, he dismissed the meeting.
-201After the uproar died down, Paul called together the believers and with words of encouragement said good-bye to them. Then he left and went on to Macedonia.
+20
+1After the uproar died down, Paul called together the believers and with words of encouragement said good-bye to them. Then he left and went on to Macedonia.
 2 He went through those regions and encouraged the people with many messages. Then he came to Achaia,
 3 where he stayed three months. He was getting ready to go to Syria when he discovered that there were Jews plotting against him; so he decided to go back through Macedonia.
 4Sopater son of Pyrrhus, from Berea, went with him; so did Aristarchus and Secundus, from Thessalonica; Gaius, from Derbe; Tychicus and Trophimus, from the province of Asia; and Timothy.
@@ -4606,7 +4613,8 @@ Matthew
 36 When Paul finished, he knelt down with them and prayed.
 37 They were all crying as they hugged him and kissed him good-bye.
 38 They were especially sad because he had said that they would never see him again. And so they went with him to the ship.
-211 We said good-bye to them and left. After sailing straight across, we came to Cos; the next day we reached Rhodes, and from there we went on to Patara.
+21
+1 We said good-bye to them and left. After sailing straight across, we came to Cos; the next day we reached Rhodes, and from there we went on to Patara.
 2 There we found a ship that was going to Phoenicia, so we went aboard and sailed away.
 3 We came to where we could see Cyprus, and then sailed south of it on to Syria. We went ashore at Tyre, where the ship was going to unload its cargo.
 4 There we found some believers and stayed with them a week. By the power of the Spirit they told Paul not to go to Jerusalem.
@@ -4646,7 +4654,8 @@ Matthew
 38 Then you are not that Egyptian fellow who some time ago started a revolution and led four thousand armed terrorists out into the desert?
 39 Paul answered, I am a Jew, born in Tarsus in Cilicia, a citizen of an important city. Please let me speak to the people.
 40 The commander gave him permission, so Paul stood on the steps and motioned with his hand for the people to be silent. When they were quiet, Paul spoke to them in Hebrew:
-221 My fellow Jews, listen to me as I make my defense before you!
+22
+1 My fellow Jews, listen to me as I make my defense before you!
 2 When they heard him speaking to them in Hebrew, they became even quieter; and Paul went on:
 3 I am a Jew, born in Tarsus in Cilicia, but brought up here in Jerusalem as a student of Gamaliel. I received strict instruction in the Law of our ancestors and was just as dedicated to God as are all of you who are here today.
 4 I persecuted to the death the people who followed this Way. I arrested men and women and threw them into prison.
@@ -4676,7 +4685,8 @@ Matthew
 28 The commander said, I became one by paying a large amount of money. But I am one by birth, Paul answered.
 29At once the men who were going to question Paul drew back from him; and the commander was frightened when he realized that Paul was a Roman citizen and that he had put him in chains.
 30 The commander wanted to find out for sure what the Jews were accusing Paul of; so the next day he had Paul's chains taken off and ordered the chief priests and the whole Council to meet. Then he took Paul and made him stand before them.
-231 Paul looked straight at the Council and said, My fellow Israelites! My conscience is perfectly clear about the way in which I have lived before God to this very day.
+23
+1 Paul looked straight at the Council and said, My fellow Israelites! My conscience is perfectly clear about the way in which I have lived before God to this very day.
 2 The High Priest Ananias ordered those who were standing close to Paul to strike him on the mouth.
 3 Paul said to him, God will certainly strike you -- you whitewashed wall! You sit there to judge me according to the Law, yet you break the Law by ordering them to strike me!
 4 The men close to Paul said to him, You are insulting God's High Priest!
@@ -4711,7 +4721,8 @@ Matthew
 33 They took him to Caesarea, delivered the letter to the governor, and turned Paul over to him.
 34 The governor read the letter and asked Paul what province he was from. When he found out that he was from Cilicia,
 35 he said, I will hear you when your accusers arrive. Then he gave orders for Paul to be kept under guard in the governor's headquarters.
-241 Five days later the High Priest Ananias went to Caesarea with some elders and a lawyer named Tertullus. They appeared before Governor Felix and made their charges against Paul.
+24
+1 Five days later the High Priest Ananias went to Caesarea with some elders and a lawyer named Tertullus. They appeared before Governor Felix and made their charges against Paul.
 2 Then Paul was called in, and Tertullus began to make his accusation, as follows: Your Excellency! Your wise leadership has brought us a long period of peace, and many necessary reforms are being made for the good of our country.
 3 We welcome this everywhere and at all times, and we are deeply grateful to you.
 4 I do not want to take up too much of your time, however, so I beg you to be kind and listen to our brief account.
@@ -4738,7 +4749,8 @@ Matthew
 25But as Paul went on discussing about goodness, self-control, and the coming Day of Judgment, Felix was afraid and said, You may leave now. I will call you again when I get the chance.
 26At the same time he was hoping that Paul would give him some money; and for this reason he would call for him often and talk with him.
 27After two years had passed, Porcius Festus succeeded Felix as governor. Felix wanted to gain favor with the Jews so he left Paul in prison.
-251 Three days after Festus arrived in the province, he went from Caesarea to Jerusalem,
+25
+1 Three days after Festus arrived in the province, he went from Caesarea to Jerusalem,
 2 where the chief priests and the Jewish leaders brought their charges against Paul. They begged Festus
 3 to do them the favor of having Paul come to Jerusalem, for they had made a plot to kill him on the way.
 4 Festus answered, Paul is being kept a prisoner in Caesarea, and I myself will be going back there soon.
@@ -4765,7 +4777,8 @@ Matthew
 25But I could not find that he had done anything for which he deserved the death sentence. And since he himself made an appeal to the Emperor, I have decided to send him.
 26But I have nothing definite about him to write to the Emperor. So I have brought him here before you -- and especially before you, King Agrippa! -- so that, after investigating his case, I may have something to write.
 27 For it seems unreasonable to me to send a prisoner without clearly indicating the charges against him.
-261Agrippa said to Paul, You have permission to speak on your own behalf. Paul stretched out his hand and defended himself as follows:
+26
+1Agrippa said to Paul, You have permission to speak on your own behalf. Paul stretched out his hand and defended himself as follows:
 2King Agrippa! I consider myself fortunate that today I am to defend myself before you from all the things these Jews accuse me of,
 3 particularly since you know so well all the Jewish customs and disputes. I ask you, then, to listen to me with patience.
 4All the Jews know how I have lived ever since I was young. They know how I have spent my whole life, at first in my own country and then in Jerusalem.
@@ -4797,7 +4810,8 @@ Matthew
 30 Then the king, the governor, Bernice, and all the others got up,
 31 and after leaving they said to each other, This man has not done anything for which he should die or be put in prison.
 32And Agrippa said to Festus, This man could have been released if he had not appealed to the Emperor.
-271 When it was decided that we should sail to Italy, they handed Paul and some other prisoners over to Julius, an officer in the Roman army regiment called The Emperor's Regiment.
+27
+1 When it was decided that we should sail to Italy, they handed Paul and some other prisoners over to Julius, an officer in the Roman army regiment called The Emperor's Regiment.
 2 We went aboard a ship from Adramyttium, which was ready to leave for the seaports of the province of Asia, and we sailed away. Aristarchus, a Macedonian from Thessalonica, was with us.
 3 The next day we arrived at Sidon. Julius was kind to Paul and allowed him to go and see his friends, to be given what he needed.
 4 We went on from there, and because the winds were blowing against us, we sailed on the sheltered side of the island of Cyprus.
@@ -4841,7 +4855,8 @@ Matthew
 42 The soldiers made a plan to kill all the prisoners, in order to keep them from swimming ashore and escaping.
 43But the army officer wanted to save Paul, so he stopped them from doing this. Instead, he ordered everyone who could swim to jump overboard first and swim ashore;
 44 the rest were to follow, holding on to the planks or to some broken pieces of the ship. And this was how we all got safely ashore.
-281 When we were safely ashore, we learned that the island was called Malta.
+28
+1 When we were safely ashore, we learned that the island was called Malta.
 2 The natives there were very friendly to us. It had started to rain and was cold, so they built a fire and made us all welcome.
 3 Paul gathered up a bundle of sticks and was putting them on the fire when a snake came out on account of the heat and fastened itself to his hand.
 4 The natives saw the snake hanging on Paul's hand and said to one another, This man must be a murderer, but Fate will not let him live, even though he escaped from the sea.
@@ -5139,7 +5154,8 @@ Matthew
 31 while God's people, who were seeking a law that would put them right with God, did not find it.
 32And why not? Because they did not depend on faith but on what they did. And so they stumbled over the stumbling stone
 33 that the scripture speaks of: Look, I place in Zion a stone that will make people stumble, a rock that will make them fall. But whoever believes in him will not be disappointed.
-101 My friends, how I wish with all my heart that my own people might be saved! How I pray to God for them!
+10
+1 My friends, how I wish with all my heart that my own people might be saved! How I pray to God for them!
 2 I can assure you that they are deeply devoted to God; but their devotion is not based on true knowledge. 
 3 They have not known the way in which God puts people right with himself, and instead, they have tried to set up their own way; and so they did not submit themselves to God's way of putting people right.
 4 For Christ has brought the Law to an end, so that everyone who believes is put right with God.
@@ -5160,7 +5176,8 @@ Matthew
 19Again I ask: Did the people of Israel not understand? Moses himself is the first one to answer: I will use a so-called nation to make my people jealous; and by means of a nation of fools I will make my people angry.
 20And Isaiah is even bolder when he says, I was found by those who were not looking for me; I appeared to those who were not asking for me.
 21But concerning Israel he says, All day long I held out my hands to welcome a disobedient and rebellious people.
-111 I ask, then: Did God reject his own people? Certainly not! I myself am an Israelite, a descendant of Abraham, a member of the tribe of Benjamin.
+11
+1 I ask, then: Did God reject his own people? Certainly not! I myself am an Israelite, a descendant of Abraham, a member of the tribe of Benjamin.
 2 God has not rejected his people, whom he chose from the beginning. You know what the scripture says in the passage where Elijah pleads with God against Israel:
 3 Lord, they have killed your prophets and torn down your altars; I am the only one left, and they are trying to kill me.
 4 What answer did God give him? I have kept for myself seven thousand men who have not worshiped the false god Baal.
@@ -5196,7 +5213,8 @@ Matthew
 34As the scripture says, Who knows the mind of the Lord? Who is able to give him advice?
 35 Who has ever given him anything, so that he had to pay it back?
 36 For all things were created by him, and all things exist through him and for him. To God be the glory forever! Amen.
-121So then, my friends, because of God's great mercy to us I appeal to you: Offer yourselves as a living sacrifice to God, dedicated to his service and pleasing to him. This is the true worship that you should offer.
+12
+1So then, my friends, because of God's great mercy to us I appeal to you: Offer yourselves as a living sacrifice to God, dedicated to his service and pleasing to him. This is the true worship that you should offer.
 2 Do not conform yourselves to the standards of this world, but let God transform you inwardly by a complete change of your mind. Then you will be able to know the will of God -- what is good and is pleasing to him and is perfect.
 3And because of God's gracious gift to me I say to every one of you: Do not think of yourself more highly than you should. Instead, be modest in your thinking, and judge yourself according to the amount of faith that God has given you.
 4 We have many parts in the one body, and all these parts have different functions.
@@ -5217,7 +5235,8 @@ Matthew
 19 Never take revenge, my friends, but instead let God's anger do it. For the scripture says, I will take revenge, I will pay back, says the Lord.
 20 Instead, as the scripture says: If your enemies are hungry, feed them; if they are thirsty, give them a drink; for by doing this you will make them burn with shame.
 21 Do not let evil defeat you; instead, conquer evil with good.
-131 Everyone must obey state authorities, because no authority exists without God's permission, and the existing authorities have been put there by God.
+13
+1 Everyone must obey state authorities, because no authority exists without God's permission, and the existing authorities have been put there by God.
 2 Whoever opposes the existing authority opposes what God has ordered; and anyone who does so will bring judgment on himself.
 3 For rulers are not to be feared by those who do good, but by those who do evil. Would you like to be unafraid of those in authority? Then do what is good, and they will praise you,
 4 because they are God's servants working for your own good. But if you do evil, then be afraid of them, because their power to punish is real. They are God's servants and carry out God's punishment on those who do evil.
@@ -5231,7 +5250,8 @@ Matthew
 12 The night is nearly over, day is almost here. Let us stop doing the things that belong to the dark, and let us take up weapons for fighting in the light.
 13 Let us conduct ourselves properly, as people who live in the light of day -- no orgies or drunkenness, no immorality or indecency, no fighting or jealousy.
 14But take up the weapons of the Lord Jesus Christ, and stop paying attention to your sinful nature and satisfying its desires.
-141 Welcome those who are weak in faith, but do not argue with them about their personal opinions.
+14
+1 Welcome those who are weak in faith, but do not argue with them about their personal opinions.
 2Some people's faith allows them to eat anything, but the person who is weak in the faith eats only vegetables.
 3 The person who will eat anything is not to despise the one who doesn't; while the one who eats only vegetables is not to pass judgment on the one who will eat anything; for God has accepted that person.
 4 Who are you to judge the servants of someone else? It is their own Master who will decide whether they succeed or fail. And they will succeed, because the Lord is able to make them succeed.
@@ -5254,7 +5274,8 @@ Matthew
 21 The right thing to do is to keep from eating meat, drinking wine, or doing anything else that will make other believers fall.
 22Keep what you believe about this matter, then, between yourself and God. Happy are those who do not feel guilty when they do something they judge is right!
 23But if they have doubts about what they eat, God condemns them when they eat it, because their action is not based on faith. And anything that is not based on faith is sin.
-151 We who are strong in the faith ought to help the weak to carry their burdens. We should not please ourselves.
+15
+1 We who are strong in the faith ought to help the weak to carry their burdens. We should not please ourselves.
 2 Instead, we should all please other believers for their own good, in order to build them up in the faith.
 3 For Christ did not please himself. Instead, as the scripture says, The insults which are hurled at you have fallen on me.
 4 Everything written in the Scriptures was written to teach us, in order that we might have hope through the patience and encouragement which the Scriptures give us.
@@ -5287,7 +5308,8 @@ Matthew
 31 Pray that I may be kept safe from the unbelievers in Judea and that my service in Jerusalem may be acceptable to God's people there.
 32And so I will come to you full of joy, if it is God's will, and enjoy a refreshing visit with you.
 33 May God, our source of peace, be with all of you. Amen.
-161 I recommend to you our sister Phoebe, who serves the church at Cenchreae.
+16
+1 I recommend to you our sister Phoebe, who serves the church at Cenchreae.
 2Receive her in the Lord's name, as God's people should, and give her any help she may need from you; for she herself has been a good friend to many people and also to me.
 3 I send greetings to Priscilla and Aquila, my fellow workers in the service of Christ Jesus;
 4 they risked their lives for me. I am grateful to them -- not only I, but all the Gentile churches as well.
@@ -5309,8 +5331,7 @@ Matthew
 20And God, our source of peace, will soon crush Satan under your feet. The grace of our Lord Jesus be with you.
 21 Timothy, my fellow worker, sends you his greetings; and so do Lucius, Jason, and Sosipater, fellow Jews.
 22 I, Tertius, the writer of this letter, send you Christian greetings.
-23 My host Gaius, in whose house the church meets, sends you his greetings; Erastus, the city treasurer, and our brother Quartus send you their greetings.
-24 [[EMPTY]]
+23-24 My host Gaius, in whose house the church meets, sends you his greetings; Erastus, the city treasurer, and our brother Quartus send you their greetings.
 25 Let us give glory to God! He is able to make you stand firm in your faith, according to the Good News I preach about Jesus Christ and according to the revelation of the secret truth which was hidden for long ages in the past.
 26 Now, however, that truth has been brought out into the open through the writings of the prophets; and by the command of the eternal God it is made known to all nations, so that all may believe and obey.
 27 To the only God, who alone is all-wise, be glory through Jesus Christ forever! Amen.
@@ -5527,7 +5548,8 @@ Matthew
 25 Every athlete in training submits to strict discipline, in order to be crowned with a wreath that will not last; but we do it for one that will last forever.
 26 That is why I run straight for the finish line; that is why I am like a boxer who does not waste his punches.
 27 I harden my body with blows and bring it under complete control, to keep myself from being disqualified after having called others to the contest.
-101 I want you to remember, my friends, what happened to our ancestors who followed Moses. They were all under the protection of the cloud, and all passed safely through the Red Sea.
+10
+1 I want you to remember, my friends, what happened to our ancestors who followed Moses. They were all under the protection of the cloud, and all passed safely through the Red Sea.
 2 In the cloud and in the sea they were all baptized as followers of Moses.
 3All ate the same spiritual bread
 4 and drank the same spiritual drink. They drank from the spiritual rock that went with them; and that rock was Christ himself.
@@ -5560,7 +5582,8 @@ Matthew
 31 Well, whatever you do, whether you eat or drink, do it all for God's glory.
 32 Live in such a way as to cause no trouble either to Jews or Gentiles or to the church of God.
 33 Just do as I do; I try to please everyone in all that I do, not thinking of my own good, but of the good of all, so that they might be saved.
-111 Imitate me, then, just as I imitate Christ.
+11
+1 Imitate me, then, just as I imitate Christ.
 2 I praise you because you always remember me and follow the teachings that I have handed on to you.
 3But I want you to understand that Christ is supreme over every man, the husband is supreme over his wife, and God is supreme over Christ.
 4So a man who prays or proclaims God's message in public worship with his head covered disgraces Christ.
@@ -5594,7 +5617,8 @@ Matthew
 32But we are judged and punished by the Lord, so that we shall not be condemned together with the world.
 33So then, my friends, when you gather together to eat the Lord's Supper, wait for one another.
 34And if any of you are hungry, you should eat at home, so that you will not come under God's judgment as you meet together. As for the other matters, I will settle them when I come.
-121 Now, concerning what you wrote about the gifts from the Holy Spirit. I want you to know the truth about them, my friends.
+12
+1 Now, concerning what you wrote about the gifts from the Holy Spirit. I want you to know the truth about them, my friends.
 2 You know that while you were still heathen, you were led astray in many ways to the worship of lifeless idols.
 3 I want you to know that no one who is led by God's Spirit can say A curse on Jesus! and no one can confess Jesus is Lord, without being guided by the Holy Spirit.
 4 There are different kinds of spiritual gifts, but the same Spirit gives them.
@@ -5625,7 +5649,8 @@ Matthew
 29 They are not all apostles or prophets or teachers. Not everyone has the power to work miracles
 30 or to heal diseases or to speak in strange tongues or to explain what is said.
 31Set your hearts, then, on the more important gifts. Best of all, however, is the following way.
-131 I may be able to speak the languages of human beings and even of angels, but if I have no love, my speech is no more than a noisy gong or a clanging bell.
+13
+1 I may be able to speak the languages of human beings and even of angels, but if I have no love, my speech is no more than a noisy gong or a clanging bell.
 2 I may have the gift of inspired preaching; I may have all knowledge and understand all secrets; I may have all the faith needed to move mountains -- but if I have no love, I am nothing.
 3 I may give away everything I have, and even give up my body to be burned -- but if I have no love, this does me no good.
 4 Love is patient and kind; it is not jealous or conceited or proud;
@@ -5679,7 +5704,8 @@ Matthew
 38But if he does not pay attention to this, pay no attention to him.
 39So then, my friends, set your heart on proclaiming God's message, but do not forbid the speaking in strange tongues.
 40 Everything must be done in a proper and orderly way.
-151And now I want to remind you, my friends, of the Good News which I preached to you, which you received, and on which your faith stands firm.
+15
+1And now I want to remind you, my friends, of the Good News which I preached to you, which you received, and on which your faith stands firm.
 2 That is the gospel, the message that I preached to you. You are saved by the gospel if you hold firmly to it -- unless it was for nothing that you believed.
 3 I passed on to you what I received, which is of the greatest importance: that Christ died for our sins, as written in the Scriptures;
 4 that he was buried and that he was raised to life three days later, as written in the Scriptures;
@@ -5737,7 +5763,8 @@ Matthew
 56 Death gets its power to hurt from sin, and sin gets its power from the Law.
 57But thanks be to God who gives us the victory through our Lord Jesus Christ!
 58So then, my dear friends, stand firm and steady. Keep busy always in your work for the Lord, since you know that nothing you do in the Lord's service is ever useless.
-161 Now, concerning what you wrote about the money to be raised to help God's people in Judea. You must do what I told the churches in Galatia to do.
+16
+1 Now, concerning what you wrote about the money to be raised to help God's people in Judea. You must do what I told the churches in Galatia to do.
 2 Every Sunday each of you must put aside some money, in proportion to what you have earned, and save it up, so that there will be no need to collect money when I come.
 3After I come, I shall give letters of introduction to those you have approved, and send them to take your gift to Jerusalem.
 4 If it seems worthwhile for me to go, then they can go along with me.
@@ -5774,8 +5801,7 @@ Matthew
 10 From such terrible dangers of death he saved us, and will save us; and we have placed our hope in him that he will save us again,
 11 as you help us by means of your prayers for us. So it will be that the many prayers for us will be answered, and God will bless us; and many will raise their voices to him in thanksgiving for us.
 12 We are proud that our conscience assures us that our lives in this world, and especially our relations with you, have been ruled by God-given frankness and sincerity, by the power of God's grace and not by human wisdom.
-13 We write to you only what you can read and understand. But even though you now understand us only in part, I hope that you will come to understand us completely, so that in the Day of our Lord Jesus you can be as proud of us as we shall be of you.
-14 (1:13)
+13-14 We write to you only what you can read and understand. But even though you now understand us only in part, I hope that you will come to understand us completely, so that in the Day of our Lord Jesus you can be as proud of us as we shall be of you.
 15 I was so sure of all this that I made plans at first to visit you, in order that you might be blessed twice.
 16 For I planned to visit you on my way to Macedonia and again on my way back, in order to get help from you for my trip to Judea.
 17 In planning this, did I appear fickle? When I make my plans, do I make them from selfish motives, ready to say Yes, yes and No, no at the same time?
@@ -5941,7 +5967,8 @@ Matthew
 13And because of the proof which this service of yours brings, many will give glory to God for your loyalty to the gospel of Christ, which you profess, and for your generosity in sharing with them and everyone else.
 14And so with deep affection they will pray for you because of the extraordinary grace God has shown you.
 15 Let us thank God for his priceless gift!
-101 I, Paul, make a personal appeal to you -- I who am said to be meek and mild when I am with you, but harsh with you when I am away. By the gentleness and kindness of Christ
+10
+1 I, Paul, make a personal appeal to you -- I who am said to be meek and mild when I am with you, but harsh with you when I am away. By the gentleness and kindness of Christ
 2 I beg you not to force me to be harsh when I come; for I am sure I can deal harshly with those who say that we act from worldly motives.
 3 It is true that we live in the world, but we do not fight from worldly motives.
 4 The weapons we use in our fight are not the world's weapons but God's powerful weapons, which we use to destroy strongholds. We destroy false arguments;
@@ -5959,7 +5986,8 @@ Matthew
 16 Then we can preach the Good News in other countries beyond you and shall not have to boast about work already done in someone else's field.
 17But as the scripture says, Whoever wants to boast must boast about what the Lord has done.
 18 For it is when the Lord thinks well of us that we are really approved, and not when we think well of ourselves.
-111 I wish you would tolerate me, even when I am a bit foolish. Please do!
+11
+1 I wish you would tolerate me, even when I am a bit foolish. Please do!
 2 I am jealous for you, just as God is; you are like a pure virgin whom I have promised in marriage to one man only, Christ himself.
 3 I am afraid that your minds will be corrupted and that you will abandon your full and pure devotion to Christ -- in the same way that Eve was deceived by the snake's clever lies.
 4 For you gladly tolerate anyone who comes to you and preaches a different Jesus, not the one we preached; and you accept a spirit and a gospel completely different from the Spirit and the gospel you received from us!
@@ -5992,7 +6020,8 @@ Matthew
 31 The God and Father of the Lord Jesus -- blessed be his name forever! -- knows that I am not lying.
 32 When I was in Damascus, the governor under King Aretas placed guards at the city gates to arrest me.
 33But I was let down in a basket through an opening in the wall and escaped from him.
-121 I have to boast, even though it doesn't do any good. But I will now talk about visions and revelations given me by the Lord.
+12
+1 I have to boast, even though it doesn't do any good. But I will now talk about visions and revelations given me by the Lord.
 2 I know a certain Christian man who fourteen years ago was snatched up to the highest heaven (I do not know whether this actually happened or whether he had a vision -- only God knows).
 3 I repeat, I know that this man was snatched to Paradise (again, I do not know whether this actually happened or whether it was a vision -- only God knows), and there he heard things which cannot be put into words, things that human lips may not speak.
 4 (12:3)
@@ -6013,7 +6042,8 @@ Matthew
 19 Perhaps you think that all along we have been trying to defend ourselves before you. No! We speak as Christ would have us speak in the presence of God, and everything we do, dear friends, is done to help you.
 20 I am afraid that when I get there I will find you different from what I would like you to be and you will find me different from what you would like me to be. I am afraid that I will find quarreling and jealousy, hot tempers and selfishness, insults and gossip, pride and disorder.
 21 I am afraid that the next time I come my God will humiliate me in your presence, and I shall weep over many who sinned in the past and have not repented of the immoral things they have done -- their lust and their sexual sins.
-131 This is now the third time that I am coming to visit you. Any accusation must be upheld by the evidence of two or more witnesses -- as the scripture says.
+13
+1 This is now the third time that I am coming to visit you. Any accusation must be upheld by the evidence of two or more witnesses -- as the scripture says.
 2 I want to tell those of you who have sinned in the past, and all the others; I said it before during my second visit to you, but I will say it again now that I am away: the next time I come nobody will escape punishment.
 3 You will have all the proof you want that Christ speaks through me. When he deals with you, he is not weak; instead, he shows his power among you.
 4 For even though it was in weakness that he was put to death on the cross, it is by God's power that he lives. In union with him we also are weak; but in our relations with you we shall share God's power in his life.
@@ -6948,7 +6978,7 @@ Matthew
 12 When I send Artemas or Tychicus to you, do your best to come to me in Nicopolis, because I have decided to spend the winter there.
 13 Do your best to help Zenas the lawyer and Apollos to get started on their travels, and see to it that they have everything they need.
 14 Our people must learn to spend their time doing good, in order to provide for real needs; they should not live useless lives.
-15All who are with me send you greetings. Give our greetings to our friends in the faith. God's grace be with you all. Philemon
+15All who are with me send you greetings. Give our greetings to our friends in the faith. God's grace be with you all.
 1
 1 From Paul, a prisoner for the sake of Christ Jesus, and from our brother Timothy -- To our friend and fellow worker Philemon,
 2 and the church that meets in your house, and our sister Apphia, and our fellow soldier Archippus:
@@ -7154,7 +7184,8 @@ Matthew
 26 for then he would have had to suffer many times ever since the creation of the world. Instead, now when all ages of time are nearing the end, he has appeared once and for all, to remove sin through the sacrifice of himself.
 27 Everyone must die once, and after that be judged by God.
 28 In the same manner Christ also was offered in sacrifice once to take away the sins of many. He will appear a second time, not to deal with sin, but to save those who are waiting for him.
-101 The Jewish Law is not a full and faithful model of the real things; it is only a faint outline of the good things to come. The same sacrifices are offered forever, year after year. How can the Law, then, by means of these sacrifices make perfect the people who come to God?
+10
+1 The Jewish Law is not a full and faithful model of the real things; it is only a faint outline of the good things to come. The same sacrifices are offered forever, year after year. How can the Law, then, by means of these sacrifices make perfect the people who come to God?
 2 If the people worshiping God had really been purified from their sins, they would not feel guilty of sin any more, and all sacrifices would stop.
 3As it is, however, the sacrifices serve year after year to remind people of their sins.
 4 For the blood of bulls and goats can never take away sins.
@@ -7193,7 +7224,8 @@ Matthew
 37 For, as the scripture says, Just a little while longer, and he who is coming will come; he will not delay.
 38 My righteous people, however, will believe and live; but if any of them turns back, I will not be pleased with them.
 39 We are not people who turn back and are lost. Instead, we have faith and are saved.
-111 To have faith is to be sure of the things we hope for, to be certain of the things we cannot see.
+11
+1 To have faith is to be sure of the things we hope for, to be certain of the things we cannot see.
 2 It was by their faith that people of ancient times won God's approval.
 3 It is by faith that we understand that the universe was created by God's word, so that what can be seen was made out of what cannot be seen.
 4 It was faith that made Abel offer to God a better sacrifice than Cain's. Through his faith he won God's approval as a righteous man, because God himself approved of his gifts. By means of his faith Abel still speaks, even though he is dead.
@@ -7233,7 +7265,8 @@ Matthew
 38 The world was not good enough for them! They wandered like refugees in the deserts and hills, living in caves and holes in the ground.
 39 What a record all of these have won by their faith! Yet they did not receive what God had promised,
 40 because God had decided on an even better plan for us. His purpose was that only in company with us would they be made perfect.
-121As for us, we have this large crowd of witnesses around us. So then, let us rid ourselves of everything that gets in the way, and of the sin which holds on to us so tightly, and let us run with determination the race that lies before us.
+12
+1As for us, we have this large crowd of witnesses around us. So then, let us rid ourselves of everything that gets in the way, and of the sin which holds on to us so tightly, and let us run with determination the race that lies before us.
 2 Let us keep our eyes fixed on Jesus, on whom our faith depends from beginning to end. He did not give up because of the cross! On the contrary, because of the joy that was waiting for him, he thought nothing of the disgrace of dying on the cross, and he is now seated at the right side of God's throne.
 3 Think of what he went through; how he put up with so much hatred from sinners! So do not let yourselves become discouraged and give up.
 4 For in your struggle against sin you have not yet had to resist to the point of being killed.
@@ -7262,7 +7295,8 @@ Matthew
 27 The words once more plainly show that the created things will be shaken and removed, so that the things that cannot be shaken will remain.
 28 Let us be thankful, then, because we receive a kingdom that cannot be shaken. Let us be grateful and worship God in a way that will please him, with reverence and awe;
 29 because our God is indeed a destroying fire.
-131Keep on loving one another as Christians.
+13
+1Keep on loving one another as Christians.
 2Remember to welcome strangers in your homes. There were some who did that and welcomed angels without knowing it.
 3Remember those who are in prison, as though you were in prison with them. Remember those who are suffering, as though you were suffering as they are.
 4 Marriage is to be honored by all, and husbands and wives must be faithful to each other. God will judge those who are immoral and those who commit adultery.
@@ -7510,14 +7544,12 @@ Matthew
 12 I write you this brief letter with the help of Silas, whom I regard as a faithful Christian. I want to encourage you and give my testimony that this is the true grace of God. Stand firm in it.
 13 Your sister church in Babylon, also chosen by God, sends you greetings, and so does my son Mark.
 14 Greet one another with the kiss of Christian love. May peace be with all of you who belong to Christ.
-2 Peter
 1
 1 From Simon Peter, a servant and apostle of Jesus Christ -- To those who through the righteousness of our God and Savior Jesus Christ have been given a faith as precious as ours:
 2 May grace and peace be yours in full measure through your knowledge of God and of Jesus our Lord.
 3 God's divine power has given us everything we need to live a truly religious life through our knowledge of the one who called us to share in his own glory and goodness.
 4 In this way he has given us the very great and precious gifts he promised, so that by means of these gifts you may escape from the destructive lust that is in the world, and may come to share the divine nature.
 5 For this very reason do your best to add goodness to your faith; to your goodness add knowledge;
-2 Peter 1.6–13 2
 6 to your knowledge add self-control; to your self-control add endurance; to your endurance add godliness;
 7 to your godliness add Christian affection; and to your Christian affection add love.
 8 These are the qualities you need, and if you have them in abundance, they will make you active and effective in your knowledge of our Lord Jesus Christ.
@@ -7526,7 +7558,6 @@ Matthew
 11 In this way you will be given the full right to enter the eternal Kingdom of our Lord and Savior Jesus Christ.
 12And so I will always remind you of these matters, even though you already know them and are firmly grounded in the truth you have received.
 13 I think it only right for me to stir up your memory of these matters as long as I am still alive.
-2 Peter 1.14–20 3
 14 I know that I shall soon put off this mortal body, as our Lord Jesus Christ plainly told me.
 15 I will do my best, then, to provide a way for you to remember these matters at all times after my death.
 16 We have not depended on made-up stories in making known to you the mighty coming of our Lord Jesus Christ. With our own eyes we saw his greatness.
@@ -7534,35 +7565,30 @@ Matthew
 18 We ourselves heard this voice coming from heaven, when we were with him on the holy mountain.
 19So we are even more confident of the message proclaimed by the prophets. You will do well to pay attention to it, because it is like a lamp shining in a dark place until the Day dawns and the light of the morning star shines in your hearts.
 20Above all else, however, remember that none of us can explain by ourselves a prophecy in the Scriptures.
-2 Peter 1.21–2.5 4
 21 For no prophetic message ever came just from the human will, but people were under the control of the Holy Spirit as they spoke the message that came from God.
 2
 1 False prophets appeared in the past among the people, and in the same way false teachers will appear among you. They will bring in destructive, untrue doctrines, and will deny the Master who redeemed them, and so they will bring upon themselves sudden destruction.
 2 Even so, many will follow their immoral ways; and because of what they do, others will speak evil of the Way of truth.
 3 In their greed these false teachers will make a profit out of telling you made-up stories. For a long time now their Judge has been ready, and their Destroyer has been wide awake!
 4 God did not spare the angels who sinned, but threw them into hell, where they are kept chained in darkness, waiting for the Day of Judgment.
-5 God did not spare the ancient world, but brought the flood on the world of godless people; the only ones he saved
-2 Peter 2.6–12 5 were Noah, who preached righteousness, and seven other people.
+5 God did not spare the ancient world, but brought the flood on the world of godless people; the only ones he saved were Noah, who preached righteousness, and seven other people.
 6 God condemned the cities of Sodom and Gomorrah, destroying them with fire, and made them an example of what will happen to the godless.
 7 He rescued Lot, a good man, who was distressed by the immoral conduct of lawless people.
 8 That good man lived among them, and day after day he suffered agony as he saw and heard their evil actions.
 9And so the Lord knows how to rescue godly people from their trials and how to keep the wicked under punishment for the Day of Judgment,
 10 especially those who follow their filthy bodily lusts and despise God's authority. These false teachers are bold and arrogant, and show no respect for the glorious beings above; instead, they insult them.
 11 Even the angels, who are so much stronger and mightier than these false teachers, do not accuse them with insults in the presence of the Lord.
-12But these people act by instinct, like wild animals born to be captured and
-2 Peter 2.13–17 6 killed; they attack with insults anything they do not understand. They will be destroyed like wild animals,
+12But these people act by instinct, like wild animals born to be captured and killed; they attack with insults anything they do not understand. They will be destroyed like wild animals,
 13 and they will be paid with suffering for the suffering they have caused. Pleasure for them is to do anything in broad daylight that will satisfy their bodily appetites; they are a shame and a disgrace as they join you in your meals, all the while enjoying their deceitful ways!
 14 They want to look for nothing but the chance to commit adultery; their appetite for sin is never satisfied. They lead weak people into a trap. Their hearts are trained to be greedy. They are under God's curse!
 15 They have left the straight path and have lost their way; they have followed the path taken by Balaam son of Beor, who loved the money he would get for doing wrong
 16 and was rebuked for his sin. His donkey spoke with a human voice and stopped the prophet's insane action.
-17 These people are like dried-up springs, like clouds blown along by a
-2 Peter 2.18–22 7 storm; God has reserved a place for them in the deepest darkness.
+17 These people are like dried-up springs, like clouds blown along by a storm; God has reserved a place for them in the deepest darkness.
 18 They make proud and stupid statements, and use immoral bodily lusts to trap those who are just beginning to escape from among people who live in error.
 19 They promise them freedom while they themselves are slaves of destructive habits -- for we are slaves of anything that has conquered us.
 20 If people have escaped from the corrupting forces of the world through their knowledge of our Lord and Savior Jesus Christ, and then are again caught and conquered by them, such people are in worse condition at the end than they were at the beginning.
 21 It would have been much better for them never to have known the way of righteousness than to know it and then turn away from the sacred command that was given them.
 22 What happened to them shows that the proverbs are true: A dog goes back to what it has vomited and A pig that has been washed goes back to roll in the mud.
-2 Peter 3.1–6 8
 3
 1 My dear friends, this is now the second letter I have written you. In both letters I have tried to arouse pure thoughts in your minds by reminding you of these things.
 2 I want you to remember the words that were spoken long ago by the holy prophets, and the command from the Lord and Savior which was given you by your apostles.
@@ -7570,21 +7596,18 @@ Matthew
 4 and will ask, He promised to come, didn't he? Where is he? Our ancestors have already died, but everything is still the same as it was since the creation of the world!
 5 They purposely ignore the fact that long ago God gave a command, and the heavens and earth were created. The earth was formed out of water and by water,
 6 and it was also by water, the water of the flood, that the old world was destroyed.
-2 Peter 3.7–12 9
 7But the heavens and the earth that now exist are being preserved by the same command of God, in order to be destroyed by fire. They are being kept for the day when godless people will be judged and destroyed.
 8But do not forget one thing, my dear friends! There is no difference in the Lord's sight between one day and a thousand years; to him the two are the same.
 9 The Lord is not slow to do what he has promised, as some think. Instead, he is patient with you, because he does not want anyone to be destroyed, but wants all to turn away from their sins.
 10But the Day of the Lord will come like a thief. On that Day the heavens will disappear with a shrill noise, the heavenly bodies will burn up and be destroyed, and the earth with everything in it will vanish.
 11Since all these things will be destroyed in this way, what kind of people should you be? Your lives should be holy and dedicated to God,
-12 as you wait for the Day of God and do your best to make it come soon -- the
-2 Peter 3.13–18 10 Day when the heavens will burn up and be destroyed, and the heavenly bodies will be melted by the heat.
+12 as you wait for the Day of God and do your best to make it come soon -- the Day when the heavens will burn up and be destroyed, and the heavenly bodies will be melted by the heat.
 13But we wait for what God has promised: new heavens and a new earth, where righteousness will be at home.
 14And so, my friends, as you wait for that Day, do your best to be pure and faultless in God's sight and to be at peace with him.
 15 Look on our Lord's patience as the opportunity he is giving you to be saved, just as our dear friend Paul wrote to you, using the wisdom that God gave him.
 16 This is what he says in all his letters when he writes on the subject. There are some difficult things in his letters which ignorant and unstable people explain falsely, as they do with other passages of the Scriptures. So they bring on their own destruction.
 17But you, my friends, already know this. Be on your guard, then, so that you will not be led away by the errors of lawless people and fall from your safe position.
-18But continue to grow in the grace and knowledge of our Lord and Savior
-2 Peter 3.18 11 Jesus Christ. To him be the glory, now and forever! Amen.
+18But continue to grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory, now and forever! Amen.
 1
 1 We write to you about the Word of life, which has existed from the very beginning. We have heard it, and we have seen it with our eyes; yes, we have seen it, and our hands have touched it.
 2 When this life became visible, we saw it; so we speak of it and tell you about the eternal life which was with the Father and was made known to us.
@@ -7797,9 +7820,7 @@ Matthew
 23 I will also kill her followers, and then all the churches will know that I am the one who knows everyone's thoughts and wishes. I will repay each of you according to what you have done.
 24But the rest of you in Thyatira have not followed this evil teaching; you have not learned what the others call the deep secrets of Satan. I say to you that I will not put any other burden on you.
 25But until I come, you must hold firmly to what you have.
-26 To those who win the victory, who continue to the end to do what I want, I will give the same authority that I received from my Father: I will give them authority over the nations, to rule them with an iron rod and to break them to pieces like clay pots. I will also give them the morning star.
-27 (2:26)
-28 (2:26)
+26:28 To those who win the victory, who continue to the end to do what I want, I will give the same authority that I received from my Father: I will give them authority over the nations, to rule them with an iron rod and to break them to pieces like clay pots. I will also give them the morning star.
 29 If you have ears, then, listen to what the Spirit says to the churches!
 3
 1 To the angel of the church in Sardis write: This is the message from the one who has the seven spirits of God and the seven stars. I know what you are doing; I know that you have the reputation of being alive, even though you are dead!
@@ -7874,10 +7895,7 @@ Matthew
 2And I saw another angel coming up from the east with the seal of the living God. He called out in a loud voice to the four angels to whom God had given the power to damage the earth and the sea.
 3 The angel said, Do not harm the earth, the sea, or the trees, until we mark the servants of our God with a seal on their foreheads.
 4And I was told that the number of those who were marked with God's seal on their foreheads was 144,000. They were from the twelve tribes of Israel,
-5 twelve thousand from each tribe: Judah, Reuben, Gad, Asher, Naphtali, Manasseh, Simeon, Levi, Issachar, Zebulun, Joseph, and Benjamin.
-6 (7:5)
-7 (7:5)
-8 (7:5)
+5:8 twelve thousand from each tribe: Judah, Reuben, Gad, Asher, Naphtali, Manasseh, Simeon, Levi, Issachar, Zebulun, Joseph, and Benjamin.
 9After this I looked, and there was an enormous crowd -- no one could count all the people! They were from every race, tribe, nation, and language, and they stood in front of the throne and of the Lamb, dressed in white robes and holding palm branches in their hands.
 10 They called out in a loud voice: Salvation comes from our God, who sits on the throne, and from the Lamb!
 11All the angels stood around the throne, the elders, and the four living creatures. Then they threw themselves face downward in front of the throne and worshiped God,
@@ -7923,7 +7941,8 @@ Matthew
 19 For the power of the horses is in their mouths and also in their tails. Their tails are like snakes with heads, and they use them to hurt people.
 20 The rest of the human race, all those who had not been killed by these plagues, did not turn away from what they themselves had made. They did not stop worshiping demons, nor the idols of gold, silver, bronze, stone, and wood, which cannot see, hear, or walk.
 21 Nor did they repent of their murders, their magic, their sexual immorality, or their stealing.
-101 Then I saw another mighty angel coming down out of heaven. He was wrapped in a cloud and had a rainbow around his head; his face was like the sun, and his legs were like columns of fire.
+10
+1 Then I saw another mighty angel coming down out of heaven. He was wrapped in a cloud and had a rainbow around his head; his face was like the sun, and his legs were like columns of fire.
 2 He had a small scroll open in his hand. He put his right foot on the sea and his left foot on the land,
 3 and called out in a loud voice that sounded like the roar of lions. After he had called out, the seven thunders answered with a roar.
 4As soon as they spoke, I was about to write. But I heard a voice speak from heaven, Keep secret what the seven thunders have said; do not write it down!
@@ -7934,7 +7953,8 @@ Matthew
 9 I went to the angel and asked him to give me the little scroll. He said to me, Take it and eat it; it will turn sour in your stomach, but in your mouth it will be sweet as honey.
 10 I took the little scroll from his hand and ate it, and it tasted sweet as honey in my mouth. But after I swallowed it, it turned sour in my stomach.
 11 Then I was told, Once again you must proclaim God's message about many nations, races, languages, and kings.
-111 I was then given a stick that looked like a measuring-rod, and was told, Go and measure the temple of God and the altar, and count those who are worshiping in the temple.
+11
+1 I was then given a stick that looked like a measuring-rod, and was told, Go and measure the temple of God and the altar, and count those who are worshiping in the temple.
 2But do not measure the outer courts, because they have been given to the heathen, who will trample on the Holy City for forty-two months.
 3 I will send my two witnesses dressed in sackcloth, and they will proclaim God's message during those 1, 260 days.
 4 The two witnesses are the two olive trees and the two lamps that stand before the Lord of the earth.
@@ -7953,7 +7973,8 @@ Matthew
 17 saying: Lord God Almighty, the one who is and who was! We thank you that you have taken your great power and have begun to rule!
 18 The heathen were filled with rage, because the time for your anger has come, the time for the dead to be judged. The time has come to reward your servants, the prophets, and all your people, all who have reverence for you, great and small alike. The time has come to destroy those who destroy the earth!
 19 God's temple in heaven was opened, and the Covenant Box was seen there. Then there were flashes of lightning, rumblings and peals of thunder, an earthquake, and heavy hail.
-121 Then a great and mysterious sight appeared in the sky. There was a woman, whose dress was the sun and who had the moon under her feet and a crown of twelve stars on her head.
+12
+1 Then a great and mysterious sight appeared in the sky. There was a woman, whose dress was the sun and who had the moon under her feet and a crown of twelve stars on her head.
 2She was soon to give birth, and the pains and suffering of childbirth made her cry out.
 3Another mysterious sight appeared in the sky. There was a huge red dragon with seven heads and ten horns and a crown on each of his heads.
 4 With his tail he dragged a third of the stars out of the sky and threw them down to the earth. He stood in front of the woman, in order to eat her child as soon as it was born.
@@ -7970,7 +7991,8 @@ Matthew
 15And then from his mouth the dragon poured out a flood of water after the woman, so that it would carry her away.
 16But the earth helped the woman; it opened its mouth and swallowed the water that had come from the dragon's mouth.
 17 The dragon was furious with the woman and went off to fight against the rest of her descendants, all those who obey God's commandments and are faithful to the truth revealed by Jesus.
-131 (12-18) And the dragon stood on the seashore. (13-1)Then I saw a beast coming up out of the sea. It had ten horns and seven heads; on each of its horns there was a crown, and on each of its heads there was a name that was insulting to God.
+13
+1 And the dragon stood on the seashore. (13-1)Then I saw a beast coming up out of the sea. It had ten horns and seven heads; on each of its horns there was a crown, and on each of its heads there was a name that was insulting to God.
 2 The beast looked like a leopard, with feet like a bear's feet and a mouth like a lion's mouth. The dragon gave the beast his own power, his throne, and his vast authority.
 3 One of the heads of the beast seemed to have been fatally wounded, but the wound had healed. The whole earth was amazed and followed the beast.
 4 Everyone worshiped the dragon because he had given his authority to the beast. They worshiped the beast also, saying, Who is like the beast? Who can fight against it?
@@ -7988,7 +8010,8 @@ Matthew
 16 The beast forced all the people, small and great, rich and poor, slave and free, to have a mark placed on their right hands or on their foreheads.
 17 No one could buy or sell without this mark, that is, the beast's name or the number that stands for the name.
 18 This calls for wisdom. Whoever is intelligent can figure out the meaning of the number of the beast, because the number stands for the name of someone. Its number is 666.
-141 Then I looked, and there was the Lamb standing on Mount Zion; with him were 144,000 people who have his name and his Father's name written on their foreheads.
+14
+1 Then I looked, and there was the Lamb standing on Mount Zion; with him were 144,000 people who have his name and his Father's name written on their foreheads.
 2And I heard a voice from heaven that sounded like a roaring waterfall, like a loud peal of thunder. It sounded like the music made by musicians playing their harps.
 3 The 144,000 people stood before the throne, the four living creatures, and the elders; they were singing a new song, which only they could learn. Of the whole human race they are the only ones who have been redeemed.
 4 They are the men who have kept themselves pure by not having sexual relations with women; they are virgins. They follow the Lamb wherever he goes. They have been redeemed from the rest of the human race and are the first ones to be offered to God and to the Lamb.
@@ -8008,7 +8031,8 @@ Matthew
 18 Then another angel, who is in charge of the fire, came from the altar. He shouted in a loud voice to the angel who had the sharp sickle, Use your sickle, and cut the grapes from the vineyard of the earth, because the grapes are ripe!
 19So the angel swung his sickle on the earth, cut the grapes from the vine, and threw them into the wine press of God's furious anger.
 20 The grapes were squeezed out in the wine press outside the city, and blood came out of the wine press in a flood two hundred miles long and about five feet deep.
-151 Then I saw in the sky another mysterious sight, great and amazing. There were seven angels with seven plagues, which are the last ones, because they are the final expression of God's anger.
+15
+1 Then I saw in the sky another mysterious sight, great and amazing. There were seven angels with seven plagues, which are the last ones, because they are the final expression of God's anger.
 2 Then I saw what looked like a sea of glass mixed with fire. I also saw those who had won the victory over the beast and its image and over the one whose name is represented by a number. They were standing by the sea of glass, holding harps that God had given them
 3 and singing the song of Moses, the servant of God, and the song of the Lamb: Lord God Almighty, how great and wonderful are your deeds! King of the nations, how right and true are your ways!
 4 Who will not stand in awe of you, Lord? Who will refuse to declare your greatness? You alone are holy. All the nations will come and worship you, because your just actions are seen by all.
@@ -8016,7 +8040,8 @@ Matthew
 6 The seven angels who had the seven plagues came out of the temple, dressed in clean shining linen and with gold bands tied around their chests.
 7 Then one of the four living creatures gave the seven angels seven gold bowls full of the anger of God, who lives forever and ever.
 8 The temple was filled with smoke from the glory and power of God, and no one could go into the temple until the seven plagues brought by the seven angels had come to an end.
-161 Then I heard a loud voice speaking from the temple to the seven angels: Go and pour out the seven bowls of God's anger on the earth!
+16
+1 Then I heard a loud voice speaking from the temple to the seven angels: Go and pour out the seven bowls of God's anger on the earth!
 2 The first angel went and poured out his bowl on the earth. Terrible and painful sores appeared on those who had the mark of the beast and on those who had worshiped its image.
 3 Then the second angel poured out his bowl on the sea. The water became like the blood of a dead person, and every living creature in the sea died.
 4 Then the third angel poured out his bowl on the rivers and the springs of water, and they turned into blood.
@@ -8037,7 +8062,8 @@ Matthew
 19 The great city was split into three parts, and the cities of all countries were destroyed. God remembered great Babylon and made her drink the wine from his cup -- the wine of his furious anger.
 20All the islands disappeared, all the mountains vanished.
 21 Huge hailstones, each weighing as much as a hundred pounds, fell from the sky on people, who cursed God on account of the plague of hail, because it was such a terrible plague.
-171 Then one of the seven angels who had the seven bowls came to me and said, Come, and I will show you how the famous prostitute is to be punished, that great city that is built near many rivers.
+17
+1 Then one of the seven angels who had the seven bowls came to me and said, Come, and I will show you how the famous prostitute is to be punished, that great city that is built near many rivers.
 2 The kings of the earth practiced sexual immorality with her, and the people of the world became drunk from drinking the wine of her immorality.
 3 The Spirit took control of me, and the angel carried me to a desert. There I saw a woman sitting on a red beast that had names insulting to God written all over it; the beast had seven heads and ten horns.
 4 The woman was dressed in purple and scarlet, and covered with gold ornaments, precious stones, and pearls. In her hand she held a gold cup full of obscene and filthy things, the result of her immorality.
@@ -8055,7 +8081,8 @@ Matthew
 16 The ten horns you saw and the beast will hate the prostitute; they will take away everything she has and leave her naked; they will eat her flesh and destroy her with fire.
 17 For God has placed in their hearts the will to carry out his purpose by acting together and giving to the beast their power to rule until God's words come true.
 18 The woman you saw is the great city that rules over the kings of the earth.
-181After this I saw another angel coming down out of heaven. He had great authority, and his splendor brightened the whole earth.
+18
+1After this I saw another angel coming down out of heaven. He had great authority, and his splendor brightened the whole earth.
 2 He cried out in a loud voice: She has fallen! Great Babylon has fallen! She is now haunted by demons and unclean spirits; all kinds of filthy and hateful birds live in her.
 3 For all the nations have drunk her wine -- the strong wine of her immoral lust. The kings of the earth practiced sexual immorality with her, and the merchants of the world grew rich from her unrestrained lust.
 4 Then I heard another voice from heaven, saying, Come out, my people! Come out from her! You must not take part in her sins; you must not share in her punishment!
@@ -8079,7 +8106,8 @@ Matthew
 22 The music of harps and of human voices, of players of the flute and the trumpet, will never be heard in you again! No workman in any trade will ever be found in you again; and the sound of the millstone will be heard no more!
 23 Never again will the light of a lamp be seen in you; no more will the voices of brides and grooms be heard in you. Your merchants were the most powerful in all the world, and with your false magic you deceived all the peoples of the world!
 24Babylon was punished because the blood of prophets and of God's people was found in the city; yes, the blood of all those who have been killed on earth.
-191After this I heard what sounded like the roar of a large crowd of people in heaven, saying, Praise God! Salvation, glory, and power belong to our God!
+19
+1After this I heard what sounded like the roar of a large crowd of people in heaven, saying, Praise God! Salvation, glory, and power belong to our God!
 2 True and just are his judgments! He has condemned the prostitute who was corrupting the earth with her immorality. God has punished her because she killed his servants.
 3Again they shouted, Praise God! The smoke from the flames that consume the great city goes up forever and ever!
 4 The twenty-four elders and the four living creatures fell down and worshiped God, who was seated on the throne. They said, Amen! Praise God!
@@ -8100,7 +8128,8 @@ Matthew
 19 Then I saw the beast and the kings of the earth and their armies gathered to fight against the one who was riding the horse and against his army.
 20 The beast was taken prisoner, together with the false prophet who had performed miracles in his presence. (It was by those miracles that he had deceived those who had the mark of the beast and those who had worshiped the image of the beast.) The beast and the false prophet were both thrown alive into the lake of fire that burns with sulfur.
 21 Their armies were killed by the sword that comes out of the mouth of the one who was riding the horse; and all the birds ate all they could of their flesh.
-201 Then I saw an angel coming down from heaven, holding in his hand the key of the abyss and a heavy chain.
+20
+1 Then I saw an angel coming down from heaven, holding in his hand the key of the abyss and a heavy chain.
 2 He seized the dragon, that ancient serpent -- that is, the Devil, or Satan -- and chained him up for a thousand years.
 3 The angel threw him into the abyss, locked it, and sealed it, so that he could not deceive the nations any more until the thousand years were over. After that he must be set loose for a little while.
 4 Then I saw thrones, and those who sat on them were given the power to judge. I also saw the souls of those who had been executed because they had proclaimed the truth that Jesus revealed and the word of God. They had not worshiped the beast or its image, nor had they received the mark of the beast on their foreheads or their hands. They came to life and ruled as kings with Christ for a thousand years.
@@ -8115,7 +8144,8 @@ Matthew
 13 Then the sea gave up its dead. Death and the world of the dead also gave up the dead they held. And all were judged according to what they had done.
 14 Then death and the world of the dead were thrown into the lake of fire. (This lake of fire is the second death.)
 15 Those who did not have their name written in the book of the living were thrown into the lake of fire.
-211 Then I saw a new heaven and a new earth. The first heaven and the first earth disappeared, and the sea vanished.
+21
+1 Then I saw a new heaven and a new earth. The first heaven and the first earth disappeared, and the sea vanished.
 2And I saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared and ready, like a bride dressed to meet her husband.
 3 I heard a loud voice speaking from the throne: Now God's home is with people! He will live with them, and they shall be his people. God himself will be with them, and he will be their God.
 4 He will wipe away all tears from their eyes. There will be no more death, no more grief or crying or pain. The old things have disappeared.
@@ -8142,7 +8172,8 @@ Matthew
 25 The gates of the city will stand open all day; they will never be closed, because there will be no night there.
 26 The greatness and the wealth of the nations will be brought into the city.
 27But nothing that is impure will enter the city, nor anyone who does shameful things or tells lies. Only those whose names are written in the Lamb's book of the living will enter the city.
-221 The angel also showed me the river of the water of life, sparkling like crystal, and coming from the throne of God and of the Lamb
+22
+1 The angel also showed me the river of the water of life, sparkling like crystal, and coming from the throne of God and of the Lamb
 2 and flowing down the middle of the city's street. On each side of the river was the tree of life, which bears fruit twelve times a year, once each month; and its leaves are for the healing of the nations.
 3 Nothing that is under God's curse will be found in the city. The throne of God and of the Lamb will be in the city, and his servants will worship him.
 4 They will see his face, and his name will be written on their foreheads.
@@ -8162,4 +8193,4 @@ Matthew
 18 I, John, solemnly warn everyone who hears the prophetic words of this book: if any add anything to them, God will add to their punishment the plagues described in this book.
 19And if any take anything away from the prophetic words of this book, God will take away from them their share of the fruit of the tree of life and of the Holy City, which are described in this book.
 20 He who gives his testimony to all this says, Yes indeed! I am coming soon! So be it. Come, Lord Jesus!
-21 May the grace of the Lord Jesus be with everyone.
+21 May the grace of the Lord Jesus be with everyone. Amen
