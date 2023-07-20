@@ -1,4 +1,6 @@
 import React, { useState, useEffect, useCallback } from "react";
+import axios from "axios";
+import FormData from "form-data";
 import {
   KeyboardAvoidingView,
   Keyboard,
@@ -24,7 +26,7 @@ const MainScreen = () => {
   const [inputTagVisible, setInputTagVisible] = useState(false);
   const [translationTagVisible, setTranslationTagVisible] = useState(false);
   const [isTranslated, setIsTranslated] = useState(false);
-
+  const formData = new FormData();
   const onPressLanguage1 = () => {
     console.log("Button pressed!");
   };
@@ -51,6 +53,23 @@ const MainScreen = () => {
 
   const handleTranslate = () => {
     // Placeholder for translation function
+    console.log(inputText);
+    formData.append("text", inputText);
+    axios
+      .post("http://3.92.215.241:5003/translate", formData, {
+        headers: {
+          "Content-Type": "multipart/form-data",
+        },
+      })
+      .then((response) => {
+        // Handle the response data
+        console.log(response.data);
+        setTranslatedText(response.data["translated"]);
+      })
+      .catch((error) => {
+        // Handle any errors
+        console.error(error);
+      });
     const result = inputText; // replace with your own translation function
     setTranslatedText(result);
     setTextInputMargin(20); // adjust the TextInput margin
